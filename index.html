@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Monographic Archive | Universal Art Historical Index (Est. 1995)</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        :root {
+            --bg-color: #fcfcfc;
+            --text-color: #1a1a1a;
+            --border-color: #e0e0e0;
+            --accent-color: #555555;
+            --font-stack: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: var(--font-stack);
+            margin: 0;
+            padding: 40px;
+            line-height: 1.6;
+        }
+
+        header {
+            border-bottom: 2px solid var(--text-color);
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        h1 {
+            font-size: 1.4rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            margin: 0;
+        }
+
+        .meta-tag {
+            font-size: 0.85rem;
+            color: var(--accent-color);
+            font-weight: 600;
+        }
+
+        .hero-statement {
+            font-size: 1.05rem;
+            max-width: 800px;
+            margin-top: 20px;
+            color: #333;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 40px;
+        }
+
+        .box-card-link {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+
+        .box-card {
+            border: 1px solid var(--border-color);
+            padding: 24px;
+            background-color: #ffffff;
+            height: 100%;
+            box-sizing: border-box;
+            transition: border-color 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .box-card:hover {
+            border-color: var(--text-color);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        }
+
+        .box-card h2 {
+            font-size: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            margin-top: 0;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 10px;
+        }
+
+        .box-card p {
+            font-size: 0.9rem;
+            color: var(--accent-color);
+            margin-bottom: 0;
+        }
+
+        footer {
+            margin-top: 60px;
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+            font-size: 0.8rem;
+            color: var(--accent-color);
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="header-top">
+            <h1>The Monographic Archive</h1>
+            <span class="meta-tag">EST. 1995 | DIGITAL ARCHIVE ROLLOUT 2026</span>
+        </div>
+        <p class="hero-statement">
+            An international reference registry documenting post-war and contemporary structural masters, tactile canvas practices, and participatory linguistic art historical records.
+        </p>
+    </header>
+
+    <main class="grid-container">
+        <a href="catalogue.html" class="box-card-link">
+            <div class="box-card">
+                <h2>01. Master Catalogue</h2>
+                <p>Access the complete directory containing cataloged metadata, medium specifications, and international provenance records for indexed masters.</p>
+            </div>
+        </a>
+
+        <a href="movements.html" class="box-card-link">
+            <div class="box-card">
+                <h2>02. Curatorial Movements</h2>
+                <p>Explore four distinct temporal and material classifications: Post-War Abstraction, Conceptual Linguistics, Process Abstraction, and Global Narrative Archives.</p>
+            </div>
+        </a>
+
+        <a href="research.html" class="box-card-link">
+            <div class="box-card">
+                <h2>03. Research Dossiers</h2>
+                <p>Monographs, institutional exhibition reviews, and scholarly papers detailing 20th and 21st-century tactile surface developments.</p>
+            </div>
+        </a>
+
+        <a href="verification.html" class="box-card-link">
+            <div class="box-card">
+                <h2>04. Provenance Verification</h2>
+                <p>Institutional query terminal for museum boards, curators, and registries to confirm official catalog registration numbers.</p>
+            </div>
+        </a>
+
+        <a href="about.html" class="box-card-link">
+            <div class="box-card">
+                <h2>05. Archival Origin</h2>
+                <p>History of the physical index established in 1995 and its open-access digital migration statement for academic research.</p>
+            </div>
+        </a>
+
+        <a href="bibliography.html" class="box-card-link">
+            <div class="box-card">
+                <h2>06. Bibliographic Index</h2>
+                <p>A reference repository of physical exhibition catalogues, ISBN publications, and documented international museum library deposits.</p>
+            </div>
+        </a>
+    </main>
+
+    <footer>
+        <span>The Monographic Archive / Universal Art Historical Index © 1995–2026</span>
+        <span>Public Domain CC0 Museum Metadata Exchange</span>
+    </footer>
+
+</body>
+</html>
