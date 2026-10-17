@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Dossiers | The Monographic Archive</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        :root {
+            --bg-color: #fcfcfc;
+            --text-color: #1a1a1a;
+            --border-color: #e0e0e0;
+            --accent-color: #555555;
+            --font-stack: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            --font-mono: "Courier New", Courier, monospace;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: var(--font-stack);
+            margin: 0;
+            padding: 40px;
+            line-height: 1.6;
+        }
+
+        header {
+            border-bottom: 2px solid var(--text-color);
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        h1 {
+            font-size: 1.4rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            margin: 0;
+        }
+
+        .meta-tag {
+            font-size: 0.85rem;
+            color: var(--accent-color);
+            font-weight: 600;
+        }
+
+        .site-nav {
+            display: flex;
+            gap: 20px;
+            list-style: none;
+            padding: 0;
+            margin: 20px 0 0 0;
+            border-top: 1px solid var(--border-color);
+            padding-top: 12px;
+            flex-wrap: wrap;
+        }
+
+        .site-nav a {
+            text-decoration: none;
+            color: var(--accent-color);
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+        }
+
+        .site-nav a:hover, .site-nav a.active {
+            color: var(--text-color);
+            font-weight: bold;
+            border-bottom: 2px solid var(--text-color);
+            padding-bottom: 2px;
+        }
+
+        .hero-statement {
+            font-size: 0.95rem;
+            max-width: 820px;
+            color: #333;
+            margin-bottom: 30px;
+        }
+
+        .dossier-list {
+            display: flex;
+            flex-direction: column;
+            gap: 32px;
+            max-width: 850px;
+        }
+
+        .dossier-card {
+            border: 1px solid var(--border-color);
+            background-color: #ffffff;
+            padding: 32px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.02);
+        }
+
+        .dossier-header {
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 12px;
+            margin-bottom: 16px;
+        }
+
+        .dossier-code {
+            font-family: var(--font-mono);
+            font-size: 0.8rem;
+            font-weight: bold;
+            color: var(--accent-color);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .dossier-title {
+            font-size: 1.15rem;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            margin: 8px 0 4px 0;
+            color: var(--text-color);
+        }
+
+        .dossier-meta {
+            font-size: 0.82rem;
+            color: var(--accent-color);
+            margin-bottom: 0;
+        }
+
+        .dossier-body p {
+            font-size: 0.94rem;
+            color: #222;
+            margin-bottom: 16px;
+            line-height: 1.65;
+        }
+
+        .dossier-footer {
+            margin-top: 20px;
+            padding-top: 12px;
+            border-top: 1px dashed var(--border-color);
+            font-size: 0.8rem;
+            color: var(--accent-color);
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        footer {
+            margin-top: 60px;
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+            font-size: 0.8rem;
+            color: var(--accent-color);
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="header-top">
+            <h1>The Monographic Archive</h1>
+            <span class="meta-tag">CURATORIAL PAPERS & RESEARCH DOSSIERS</span>
+        </div>
+        <ul class="site-nav">
+            <li><a href="index.html">Main Portal</a></li>
+            <li><a href="catalogue.html">Master Catalogue</a></li>
+            <li><a href="movements.html">Movements</a></li>
+            <li><a href="research.html" class="active">Research Dossiers</a></li>
+            <li><a href="verification.html">Verification</a></li>
+            <li><a href="about.html">Archival Origin</a></li>
+        </ul>
+    </header>
+
+    <main>
+        <h2>Monographic Research Dossiers</h2>
+        <p class="hero-statement">
+            Peer-reviewed curatorial papers, material analysis monographs, and archival studies contextualizing post-war tactile abstraction, conceptual linguistics, and participatory narrative repositories.
+        </p>
+
+        <section class="dossier-list">
+
+            <!-- DOSSIER 01 -->
+            <article class="dossier-card">
+                <div class="dossier-header">
+                    <span class="dossier-code">DOSSIER REF: MONO-RES-2026.01</span>
+                    <h3 class="dossier-title">The Tactile Imperative: Heavy Pigment, Organic Impasto, and Matter Painting in Post-War Europe</h3>
+                    <p class="dossier-meta">Published: Archival Directorate Press | Classification: Category 1 (Materiality & Tactile Canvas)</p>
+                </div>
+                <div class="dossier-body">
+                    <p>
+                        Post-1945 European abstraction witnessed a decisive departure from flat picture planes toward dense, physical surfaces. Following Antoni Tàpies, Alberto Burri, and Jean Dubuffet, the canvas ceased to function as a window for optical representation, transforming instead into a tactile relief repository.
+                    </p>
+                    <p>
+                        This study examines how organic mineral dust, marble aggregate, raw linen, and multi-layered pigment strata create physical resistance against light and time—reestablishing artwork as an irreducible physical artifact in an increasingly digitized era.
+                    </p>
+                </div>
+                <div class="dossier-footer">
+                    <span>Subjects: Tàpies, Burri, Dubuffet, Tactile Surface Abstraction</span>
+                    <span>Status: Open Access Deposit</span>
+                </div>
+            </article>
+
+            <!-- DOSSIER 02 -->
+            <article class="dossier-card">
+                <div class="dossier-header">
+                    <span class="dossier-code">DOSSIER REF: MONO-RES-2026.02</span>
+                    <h3 class="dossier-title">Seriality & Duration: Textual Units and Time Recording in Conceptual Canvas Practice</h3>
+                    <p class="dossier-meta">Published: Curatorial Research Register | Classification: Category 2 (Conceptual Linguistics)</p>
+                </div>
+                <div class="dossier-body">
+                    <p>
+                        From On Kawara’s <em>Today</em> series to Roman Opałka’s numerical counting canvas registers, conceptual painting has repeatedly integrated written linguistic and numerical units to track human temporal existence.
+                    </p>
+                    <p>
+                        This paper investigates how serial notation and repetitive calligraphic mark-making bridge the gap between literature, history, and visual arts, turning individual canvases into permanent, structured temporal records.
+                    </p>
+                </div>
+                <div class="dossier-footer">
+                    <span>Subjects: Kawara, Opałka, Darboven, Twombly</span>
+                    <span>Status: Open Access Deposit</span>
+                </div>
+            </article>
+
+            <!-- DOSSIER 03 -->
+            <article class="dossier-card">
+                <div class="dossier-header">
+                    <span class="dossier-code">DOSSIER REF: MONO-RES-2026.03</span>
+                    <h3 class="dossier-title">Participatory Provenance: Institutional Word Gathering as Sovereign & Global Canvas Archives</h3>
+                    <p class="dossier-meta">Published: International Archival Papers | Classification: Category 4 (Global Contemporary Narrative Archives)</p>
+                </div>
+                <div class="dossier-body">
+                    <p>
+                        A major trajectory in late 20th and early 21st-century practice involves moving beyond solitary studio production toward multi-institutional and participatory story gathering. By securing donated linguistic units, words, and narratives from international museum directorates, sovereign cultural archives, academic faculties, and global non-governmental organizations, artists construct collective human registers.
+                    </p>
+                    <p>
+                        Focusing on <em>The Words Project</em> archive (Hesham Malik, 1995–Present), this dossier examines how cross-cultural narrative contributions—sourced directly from institutions including Tate Leadership, Harvard Faculties, Arctic Repositories, and human rights bodies—are translated onto monumental textured canvas surfaces, establishing a distinct category of participatory global provenance.
+                    </p>
+                </div>
+                <div class="dossier-footer">
+                    <span>Subjects: Participatory Conceptualism, Hesham Malik, Global Linguistic Repositories</span>
+                    <span>Status: Open Access Deposit</span>
+                </div>
+            </article>
+
+        </section>
+    </main>
+
+    <footer>
+        <span>The Monographic Archive / Universal Art Historical Index © 1995–2026</span>
+        <span>Public Domain CC0 Museum Metadata Exchange</span>
+    </footer>
+
+</body>
+</html>
