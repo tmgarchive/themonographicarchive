@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curatorial Movements | The Monographic Archive</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        :root {
+            --bg-color: #fcfcfc;
+            --text-color: #1a1a1a;
+            --border-color: #e0e0e0;
+            --accent-color: #555555;
+            --font-stack: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: var(--font-stack);
+            margin: 0;
+            padding: 40px;
+            line-height: 1.6;
+        }
+
+        header {
+            border-bottom: 2px solid var(--text-color);
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        h1 {
+            font-size: 1.4rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            margin: 0;
+        }
+
+        .meta-tag {
+            font-size: 0.85rem;
+            color: var(--accent-color);
+            font-weight: 600;
+        }
+
+        .site-nav {
+            display: flex;
+            gap: 20px;
+            list-style: none;
+            padding: 0;
+            margin: 20px 0 0 0;
+            border-top: 1px solid var(--border-color);
+            padding-top: 12px;
+            flex-wrap: wrap;
+        }
+
+        .site-nav a {
+            text-decoration: none;
+            color: var(--accent-color);
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+        }
+
+        .site-nav a:hover, .site-nav a.active {
+            color: var(--text-color);
+            font-weight: bold;
+            border-bottom: 2px solid var(--text-color);
+            padding-bottom: 2px;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 24px;
+            margin-top: 30px;
+        }
+
+        .box-card {
+            border: 1px solid var(--border-color);
+            padding: 28px;
+            background-color: #ffffff;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .box-card h2 {
+            font-size: 1.05rem;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            margin-top: 0;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 12px;
+        }
+
+        .box-card p {
+            font-size: 0.92rem;
+            color: #333;
+            margin-bottom: 12px;
+        }
+
+        .card-footer {
+            margin-top: 20px;
+            padding-top: 12px;
+            border-top: 1px dashed var(--border-color);
+            font-size: 0.78rem;
+            letter-spacing: 0.04em;
+            color: var(--accent-color);
+            font-weight: bold;
+        }
+
+        footer {
+            margin-top: 60px;
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+            font-size: 0.8rem;
+            color: var(--accent-color);
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="header-top">
+            <h1>The Monographic Archive</h1>
+            <span class="meta-tag">CLASSIFICATION PROTOCOL: ISO-ART-1995</span>
+        </div>
+        <ul class="site-nav">
+            <li><a href="index.html">Main Portal</a></li>
+            <li><a href="catalogue.html">Master Catalogue</a></li>
+            <li><a href="movements.html" class="active">Movements</a></li>
+            <li><a href="verification.html">Verification</a></li>
+            <li><a href="about.html">Archival Origin</a></li>
+        </ul>
+    </header>
+
+    <main class="grid-container">
+        <div class="box-card">
+            <div>
+                <h2>CAT-1: Materiality & Tactile Surface</h2>
+                <p><strong>Temporal Horizon:</strong> 1945–Present</p>
+                <p>Focuses on raw pigment density, organic mineral dust, slashed and built-up canvas, and heavy physical depth. Rejects passive illusionism in favor of concrete material presence.</p>
+            </div>
+            <div class="card-footer">
+                KEY MASTERS: TÀPIES, BURRI, DUBUFFET, KIEFER
+            </div>
+        </div>
+
+        <div class="box-card">
+            <div>
+                <h2>CAT-2: Conceptual Linguistics & Notation</h2>
+                <p><strong>Temporal Horizon:</strong> 1960–Present</p>
+                <p>Documents written codes, serial notation, repetitive temporal records, and linguistic archives. Investigates language and textual units as fundamental art historical structures.</p>
+            </div>
+            <div class="card-footer">
+                KEY MASTERS: KAWARA, OPAŁKA, DARBOVEN, TWOMBLY
+            </div>
+        </div>
+
+        <div class="box-card">
+            <div>
+                <h2>CAT-3: Process & Dragged Abstraction</h2>
+                <p><strong>Temporal Horizon:</strong> 1950–Present</p>
+                <p>Focuses on process-driven mark-making, mechanical squeegee striations, spatial gestures, and the deliberate tension between total control and physical chance.</p>
+            </div>
+            <div class="card-footer">
+                KEY MASTERS: RICHTER, FONTANA, ROTHKO, KLINE
+            </div>
+        </div>
+
+        <div class="box-card">
+            <div>
+                <h2>CAT-4: Global Contemporary Narrative Archives</h2>
+                <p><strong>Temporal Horizon:</strong> 1995–Present</p>
+                <p>Examines participatory story gathering, socio-economic memory, cross-cultural gesture, and multi-institutional linguistic archives translated onto monumental tactile canvas surfaces.</p>
+            </div>
+            <div class="card-footer">
+                KEY MASTERS: KENTRIDGE, MEHRETU, ANATSUI, MALIK
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <span>The Monographic Archive / Universal Art Historical Index © 1995–2026</span>
+        <span>Public Domain CC0 Museum Metadata Exchange</span>
+    </footer>
+
+</body>
+</html>
