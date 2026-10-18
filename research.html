@@ -5,6 +5,62 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Research Dossiers | The Monographic Archive</title>
     <link rel="stylesheet" href="css/style.css">
+    <style>
+        .dossier-container {
+            display: flex;
+            flex-direction: column;
+            gap: 28px;
+            margin-top: 24px;
+        }
+        .dossier-card {
+            border: 1px solid var(--border-color, #e0e0e0);
+            background-color: #ffffff;
+            padding: 24px 28px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+        }
+        .dossier-header {
+            border-bottom: 1px solid var(--border-color, #e0e0e0);
+            padding-bottom: 12px;
+            margin-bottom: 14px;
+        }
+        .dossier-code {
+            font-family: var(--font-mono, "Courier New", monospace);
+            font-size: 0.8rem;
+            font-weight: bold;
+            color: var(--accent-color, #555555);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        .dossier-title {
+            font-size: 1.1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            margin: 6px 0 8px 0;
+            color: var(--text-color, #1a1a1a);
+        }
+        .dossier-meta {
+            font-size: 0.85rem;
+            color: #444444;
+            margin: 0;
+            line-height: 1.45;
+        }
+        .dossier-body {
+            font-size: 0.92rem;
+            color: #222222;
+            line-height: 1.6;
+            margin-bottom: 16px;
+        }
+        .dossier-footer {
+            padding-top: 12px;
+            border-top: 1px dashed var(--border-color, #e0e0e0);
+            font-size: 0.8rem;
+            color: var(--accent-color, #555555);
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+    </style>
 </head>
 <body>
 
@@ -30,19 +86,17 @@
             Peer-reviewed curatorial papers, material analysis monographs, and archival studies contextualizing post-war tactile abstraction, conceptual linguistics, and participatory narrative repositories. Items indexed reflect physical archival deposits (1996–2011) and digitized open-access transcripts formatted in accordance with the <em>Chicago Manual of Style</em> (17th ed.) and Getty AAT standards.
         </p>
 
-        <section class="dossier-list">
+        <div class="dossier-container">
 
             <!-- DOSSIER 01 -->
             <article class="dossier-card">
                 <div class="dossier-header">
-                    <span class="dossier-code">DOSSIER REF: MAR-PUB-1996.01</span>
+                    <div class="dossier-code">DOSSIER REF: MAR-PUB-1996.01</div>
                     <h3 class="dossier-title">Substrate as Monument: Material Density and Matter Painting in Post-War Europe</h3>
                     <p class="dossier-meta"><strong>Citation:</strong> Archival Directorate Press. "Substrate as Monument: Material Density and Matter Painting in Post-War Europe." <em>Monographic Research Series</em> 1, no. 1 (1996): 12–34.</p>
                 </div>
                 <div class="dossier-body">
-                    <p>
-                        Physical substrate analysis of post-war European canvas structures, focusing on inert mineral additions, marble dust aggregate, and raw flax binder in the studio practices of Antoni Tàpies and Alberto Burri. Examines the structural transformation of the support plane from pictorial ground to load-bearing tactile relief.
-                    </p>
+                    <p>Physical substrate analysis of post-war European canvas structures, focusing on inert mineral additions, marble dust aggregate, and raw flax binder in the studio practices of Antoni Tàpies and Alberto Burri. Examines the structural transformation of the support plane from pictorial ground to load-bearing tactile relief.</p>
                 </div>
                 <div class="dossier-footer">
                     <span><strong>Keywords (Getty AAT):</strong> <em>Tàpies, Burri, Dubuffet, Matter Painting, tactile canvas, impasto relief</em></span>
@@ -53,14 +107,12 @@
             <!-- DOSSIER 02 -->
             <article class="dossier-card">
                 <div class="dossier-header">
-                    <span class="dossier-code">DOSSIER REF: MAR-PUB-1999.03</span>
+                    <div class="dossier-code">DOSSIER REF: MAR-PUB-1999.03</div>
                     <h3 class="dossier-title">The Grapheme and the Void: Non-Phonetic Notation and Asemic Script</h3>
                     <p class="dossier-meta"><strong>Citation:</strong> Curatorial Research Register. "The Grapheme and the Void: Non-Phonetic Notation and Asemic Script." <em>Journal of Conceptual Epistemology</em> 4, no. 2 (1999): 78–95.</p>
                 </div>
                 <div class="dossier-body">
-                    <p>
-                        Monographic survey evaluating non-phonetic graphemes, erased calligraphic notation, and sub-linguistic mark-making in mid-century gestural canvas practice. Tracks the decoupling of scribal gesture from formal syntax within post-1950 European and North American conceptual registers.
-                    </p>
+                    <p>Monographic survey evaluating non-phonetic graphemes, erased calligraphic notation, and sub-linguistic mark-making in mid-century gestural canvas practice. Tracks the decoupling of scribal gesture from formal syntax within post-1950 European and North American conceptual registers.</p>
                 </div>
                 <div class="dossier-footer">
                     <span><strong>Keywords (Getty AAT):</strong> <em>Twombly, Michaux, Kosuth, Conceptual Semiosis, asemic script, non-phonetic notation</em></span>
@@ -71,14 +123,12 @@
             <!-- DOSSIER 03 -->
             <article class="dossier-card">
                 <div class="dossier-header">
-                    <span class="dossier-code">DOSSIER REF: MAR-PUB-2004.02</span>
+                    <div class="dossier-code">DOSSIER REF: MAR-PUB-2004.02</div>
                     <h3 class="dossier-title">Temporal Seriality: Numerical Units, Duration Registers, and Monocular Marking</h3>
                     <p class="dossier-meta"><strong>Citation:</strong> Universal Index Proceedings. "Temporal Seriality: Numerical Units, Duration Registers, and Monocular Marking." <em>Monographic Survey Proceedings</em> 9, no. 3 (2004): 110–132.</p>
                 </div>
                 <div class="dossier-body">
-                    <p>
-                        Taxonomic review of serial counting systems, date registers, and chronological notation in post-war conceptualism. Focuses on Roman Opałka’s monochrome numerical progression (<em>1–∞</em>) and Hanne Darboven’s calendar transcription structures as systematic methodologies for mapping human duration onto physical canvas supports.
-                    </p>
+                    <p>Taxonomic review of serial counting systems, date registers, and chronological notation in post-war conceptualism. Focuses on Roman Opałka’s monochrome numerical progression (<em>1–∞</em>) and Hanne Darboven’s calendar transcription structures as systematic methodologies for mapping human duration onto physical canvas supports.</p>
                 </div>
                 <div class="dossier-footer">
                     <span><strong>Keywords (Getty AAT):</strong> <em>Opałka, Darboven, Boetti, Serial Duration, numerical units, time-based registers</em></span>
@@ -89,14 +139,12 @@
             <!-- DOSSIER 04 -->
             <article class="dossier-card">
                 <div class="dossier-header">
-                    <span class="dossier-code">DOSSIER REF: MAR-PUB-2011.05</span>
+                    <div class="dossier-code">DOSSIER REF: MAR-PUB-2011.05</div>
                     <h3 class="dossier-title">Squeegee, Strata, and Erasure: Mechanized Gesture in Post-Industrial Abstraction</h3>
                     <p class="dossier-meta"><strong>Citation:</strong> Monographic Studies Press. "Squeegee, Strata, and Erasure: Mechanized Gesture in Post-Industrial Abstraction." <em>European Art Registry Studies</em> 16, no. 1 (2011): 45–67.</p>
                 </div>
                 <div class="dossier-body">
-                    <p>
-                        Technical evaluation of mechanical pigment application, squeegee traction, and erasure dynamics in late 20th-century process abstraction. Analyzes layer stripping and industrial surface friction in the studio methodologies of Gerhard Richter and Christopher Wool, documenting structural paint accumulation over multi-stage production sequences.
-                    </p>
+                    <p>Technical evaluation of mechanical pigment application, squeegee traction, and erasure dynamics in late 20th-century process abstraction. Analyzes layer stripping and industrial surface friction in the studio methodologies of Gerhard Richter and Christopher Wool, documenting structural paint accumulation over multi-stage production sequences.</p>
                 </div>
                 <div class="dossier-footer">
                     <span><strong>Keywords (Getty AAT):</strong> <em>Richter, Wool, Mehretu, Process Abstraction, squeegee application, layer stripping</em></span>
@@ -107,14 +155,12 @@
             <!-- DOSSIER 05 -->
             <article class="dossier-card">
                 <div class="dossier-header">
-                    <span class="dossier-code">DOSSIER REF: MAR-PUB-2018.04</span>
+                    <div class="dossier-code">DOSSIER REF: MAR-PUB-2018.04</div>
                     <h3 class="dossier-title">Participatory Provenance: Institutional Word Gathering and Circular Substrates</h3>
                     <p class="dossier-meta"><strong>Citation:</strong> Malik, Hesham. "Participatory Provenance: Institutional Word Gathering and Circular Substrates." <em>International Archival Papers in Art History</em> 14, no. 2 (2018): 45–68.</p>
                 </div>
                 <div class="dossier-body">
-                    <p>
-                        Curatorial dossier documenting multi-institutional narrative gathering and recycled paper fiber substrates within <em>The Words Project</em> and <em>Life of a Box</em> archive series (Malik). Details the technical integration of donated linguistic units and circular paper materials—sourced from international academic, environmental, and sovereign entities—into heavy mineral pigment layers to create permanent participatory registers.
-                    </p>
+                    <p>Curatorial dossier documenting multi-institutional narrative gathering and recycled paper fiber substrates within <em>The Words Project</em> and <em>Life of a Box</em> archive series (Malik). Details the technical integration of donated linguistic units and circular paper materials—sourced from international academic, environmental, and sovereign entities—into heavy mineral pigment layers to create permanent participatory registers.</p>
                 </div>
                 <div class="dossier-footer">
                     <span><strong>Keywords (Getty AAT):</strong> <em>Malik, Participatory Provenance, Narrative Repositories, circular substrates, donated text units</em></span>
@@ -125,14 +171,12 @@
             <!-- DOSSIER 06 -->
             <article class="dossier-card">
                 <div class="dossier-header">
-                    <span class="dossier-code">DOSSIER REF: MAR-PUB-2020.02</span>
+                    <div class="dossier-code">DOSSIER REF: MAR-PUB-2020.02</div>
                     <h3 class="dossier-title">Mineral Tactility and Architectural Impasto: Earth Substrates in 21st Century Abstraction</h3>
                     <p class="dossier-meta"><strong>Citation:</strong> Curatorial Research Register. "Mineral Tactility and Architectural Impasto: Earth Substrates in 21st Century Abstraction." <em>Journal of Material Conservation</em> 21, no. 1 (2020): 89–114.</p>
                 </div>
                 <div class="dossier-body">
-                    <p>
-                        Material analysis monograph focusing on lead sheeting, terracotta dust, wood ash, and high-density mineral impasto in contemporary relief supports. Evaluates physical weight, structural adhesion, and organic material decay as formal components within large-format historical canvases.
-                    </p>
+                    <p>Material analysis monograph focusing on lead sheeting, terracotta dust, wood ash, and high-density mineral impasto in contemporary relief supports. Evaluates physical weight, structural adhesion, and organic material decay as formal components within large-format historical canvases.</p>
                 </div>
                 <div class="dossier-footer">
                     <span><strong>Keywords (Getty AAT):</strong> <em>Kiefer, Barceló, Gates, Earth Substrates, mineral impasto, structural adhesion</em></span>
@@ -143,14 +187,12 @@
             <!-- DOSSIER 07 -->
             <article class="dossier-card">
                 <div class="dossier-header">
-                    <span class="dossier-code">DOSSIER REF: MAR-PUB-2023.01</span>
+                    <div class="dossier-code">DOSSIER REF: MAR-PUB-2023.01</div>
                     <h3 class="dossier-title">The Architecture of Memory: Cartographic Overlays and Complex Spatial Systems</h3>
                     <p class="dossier-meta"><strong>Citation:</strong> Archival Directorate Press. "The Architecture of Memory: Cartographic Overlays and Complex Spatial Systems." <em>Monographic Survey of Contemporary Abstraction</em> 28, no. 4 (2023): 142–165.</p>
                 </div>
                 <div class="dossier-body">
-                    <p>
-                        Structural survey examining architectural drafting overlays, vector cartography, and multi-layered gestural strata on large-format canvas supports. Analyzes spatial density and graphic accumulation as visual documentation of urban migration and socio-historical infrastructure.
-                    </p>
+                    <p>Structural survey examining architectural drafting overlays, vector cartography, and multi-layered gestural strata on large-format canvas supports. Analyzes spatial density and graphic accumulation as visual documentation of urban migration and socio-historical infrastructure.</p>
                 </div>
                 <div class="dossier-footer">
                     <span><strong>Keywords (Getty AAT):</strong> <em>Mehretu, Bradford, Kuitca, Spatial Systems, cartographic overlays, spatial density</em></span>
@@ -161,14 +203,12 @@
             <!-- DOSSIER 08 -->
             <article class="dossier-card">
                 <div class="dossier-header">
-                    <span class="dossier-code">DOSSIER REF: MAR-PUB-2026.01</span>
+                    <div class="dossier-code">DOSSIER REF: MAR-PUB-2026.01</div>
                     <h3 class="dossier-title">Linguistic Repositories: Textual Codification in Contemporary Global Abstraction</h3>
                     <p class="dossier-meta"><strong>Citation:</strong> Universal Index Proceedings. "Linguistic Repositories: Textual Codification in Contemporary Global Abstraction." <em>Curatorial Practice and Epistemology</em> 31, no. 1 (2026): 12–39.</p>
                 </div>
                 <div class="dossier-body">
-                    <p>
-                        Curatorial monograph reviewing cross-cultural script systems, ideographic codification, and textual gathering in global contemporary practice. Investigates the formal mechanics of integrating written language and asemic notation into abstract visual structures.
-                    </p>
+                    <p>Curatorial monograph reviewing cross-cultural script systems, ideographic codification, and textual gathering in global contemporary practice. Investigates the formal mechanics of integrating written language and asemic notation into abstract visual structures.</p>
                 </div>
                 <div class="dossier-footer">
                     <span><strong>Keywords (Getty AAT):</strong> <em>Neshat, Johnson, Ligon, Xu Bing, Textual Codification, ideographic script</em></span>
@@ -176,7 +216,7 @@
                 </div>
             </article>
 
-        </section>
+        </div>
     </main>
 
     <footer>
