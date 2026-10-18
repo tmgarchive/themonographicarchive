@@ -5,163 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Provenance Verification | The Monographic Archive</title>
     <link rel="stylesheet" href="css/style.css">
-    <style>
-        :root {
-            --bg-color: #fcfcfc;
-            --text-color: #1a1a1a;
-            --border-color: #e0e0e0;
-            --accent-color: #555555;
-            --font-stack: "Helvetica Neue", Helvetica, Arial, sans-serif;
-            --font-mono: "Courier New", Courier, monospace;
-        }
-
-        body {
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            font-family: var(--font-stack);
-            margin: 0;
-            padding: 40px;
-            line-height: 1.6;
-        }
-
-        header {
-            border-bottom: 2px solid var(--text-color);
-            padding-bottom: 20px;
-            margin-bottom: 40px;
-        }
-
-        .header-top {
-            display: flex;
-            justify-content: space-between;
-            align-items: baseline;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-
-        h1 {
-            font-size: 1.4rem;
-            letter-spacing: 0.05em;
-            text-transform: uppercase;
-            margin: 0;
-        }
-
-        .meta-tag {
-            font-size: 0.85rem;
-            color: var(--accent-color);
-            font-weight: 600;
-        }
-
-        .site-nav {
-            display: flex;
-            gap: 20px;
-            list-style: none;
-            padding: 0;
-            margin: 20px 0 0 0;
-            border-top: 1px solid var(--border-color);
-            padding-top: 12px;
-            flex-wrap: wrap;
-        }
-
-        .site-nav a {
-            text-decoration: none;
-            color: var(--accent-color);
-            font-size: 0.85rem;
-            text-transform: uppercase;
-            letter-spacing: 0.03em;
-        }
-
-        .site-nav a:hover, .site-nav a.active {
-            color: var(--text-color);
-            font-weight: bold;
-            border-bottom: 2px solid var(--text-color);
-            padding-bottom: 2px;
-        }
-
-        .hero-statement {
-            font-size: 0.95rem;
-            max-width: 800px;
-            color: #333;
-            margin-bottom: 30px;
-        }
-
-        .terminal-box {
-            border: 1px solid var(--border-color);
-            background-color: #ffffff;
-            padding: 30px;
-            max-width: 750px;
-            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.02);
-        }
-
-        .terminal-box label {
-            display: block;
-            font-size: 0.85rem;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-            font-weight: bold;
-            margin-bottom: 10px;
-            color: var(--accent-color);
-        }
-
-        .input-group {
-            display: flex;
-            gap: 12px;
-            margin-bottom: 20px;
-        }
-
-        .terminal-box input[type="text"] {
-            flex: 1;
-            padding: 12px;
-            font-family: var(--font-mono);
-            font-size: 0.95rem;
-            border: 1px solid var(--border-color);
-            background-color: #fcfcfc;
-            color: var(--text-color);
-            text-transform: uppercase;
-        }
-
-        .terminal-box button {
-            padding: 12px 24px;
-            font-family: var(--font-stack);
-            font-size: 0.85rem;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-            font-weight: bold;
-            background-color: var(--text-color);
-            color: #ffffff;
-            border: none;
-            cursor: pointer;
-            transition: background-color 0.2s ease;
-        }
-
-        .terminal-box button:hover {
-            background-color: #333333;
-        }
-
-        .terminal-output {
-            background-color: #111111;
-            color: #00ff66;
-            font-family: var(--font-mono);
-            font-size: 0.85rem;
-            padding: 20px;
-            border-radius: 2px;
-            min-height: 140px;
-            line-height: 1.5;
-            white-space: pre-wrap;
-            overflow-x: auto;
-        }
-
-        footer {
-            margin-top: 60px;
-            border-top: 1px solid var(--border-color);
-            padding-top: 20px;
-            font-size: 0.8rem;
-            color: var(--accent-color);
-            display: flex;
-            justify-content: space-between;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-    </style>
 </head>
 <body>
 
@@ -181,20 +24,18 @@
         </ul>
     </header>
 
-    <main>
+    <main class="prose-block">
         <h2>Provenance & Registration Verification Terminal</h2>
-        <p class="hero-statement">
-            Institutional verification service for museum directorates, curatorial registrars, and academic research bodies queryable against primary archival metadata.
-        </p>
+        <p>Institutional verification service for museum directorates, curatorial registrars, and academic research bodies queryable against primary archival metadata.</p>
 
         <div class="terminal-box">
             <label for="reg-code">Enter Registration / Accession Code:</label>
             <div class="input-group">
-                <input type="text" id="reg-code" placeholder="e.g. REG-HM-ARCH.2026 or REG-MOMA-0491">
+                <input type="text" id="reg-code" placeholder="e.g. REG-HM-ARCH.2026 or REG-POMP-1755" autocomplete="off">
                 <button onclick="verifyCode()">Query Archive</button>
             </div>
 
-            <div id="output" class="terminal-output">SYSTEM READY. Enter registration code to query the institutional registry database.</div>
+            <div id="output" class="terminal-output">> SYSTEM READY. Enter registration code to query the institutional registry database.</div>
         </div>
     </main>
 
@@ -220,7 +61,7 @@
 
             if (!input) {
                 output.style.color = "#ff4444";
-                output.innerHTML = "ERROR: Please enter a valid registration code.";
+                output.innerHTML = "> ERROR: Please enter a valid registration code.";
                 return;
             }
 
@@ -231,7 +72,7 @@
 
             if (match) {
                 output.innerHTML = 
-`STATUS: VERIFIED RECORD
+`STATUS: VERIFIED RECORD [200 OK]
 ----------------------------------------
 CODE:         ${match.code}
 ARTIST:       ${match.artist} (${match.birth_death})
@@ -245,50 +86,24 @@ ANNOTATION:   ${match.note || 'Official Archival Entry Confirmed.'}`;
             // Hardcoded registry fallback
             if (input === "REG-HM-ARCH.2026") {
                 output.innerHTML = 
-`STATUS: VERIFIED RECORD
+`STATUS: VERIFIED RECORD [FALLBACK REGISTER]
 ----------------------------------------
 CODE:         REG-HM-ARCH.2026
-ARTIST:       MALIK, Hesham (b. 1978)
-HORIZON:      1995–Present
+ARTIST:       MALIK, Hesham (b. 1978, Manama City)
 CATEGORY:     Category 4 — Global Contemporary Narrative Archives
-MEDIUM:       Acrylic, organic pigment binder, tactile canvas, paper fiber substrate
-PROVENANCE:   Regional European Museum Holdings; Paper Museum Repository (Duszniki-Zdrój); Participatory Linguistic Register
-EXHIBITION:   Monographic European Retrospectives & Regional State Museum Holdings`;
-            } else if (input === "REG-MOMA-0491") {
-                output.innerHTML = 
-`STATUS: VERIFIED RECORD
-----------------------------------------
-CODE:         REG-MOMA-0491
-ARTIST:       RICHTER, Gerhard (b. 1932)
-HORIZON:      1960–Present
-CATEGORY:     Category 3 — Process Abstraction
-MEDIUM:       Oil on canvas, custom squeegee striations, grisaille layering
-PROVENANCE:   Museum of Modern Art (MoMA, NY); Centre Pompidou (Paris); Tate Modern (London)`;
-            } else if (input === "REG-MOMA-0912") {
-                output.innerHTML = 
-`STATUS: VERIFIED RECORD
-----------------------------------------
-CODE:         REG-MOMA-0912
-ARTIST:       TÀPIES, Antoni (1923–2012)
-HORIZON:      1945–2012
-CATEGORY:     Category 1 — Materiality & Tactile Canvas
-MEDIUM:       Mixed media, marble dust aggregate, resin, heavy canvas
-PROVENANCE:   Fundació Antoni Tàpies (Barcelona); Museo Nacional Centro de Arte Reina Sofía (Madrid)`;
-            } else if (input === "REG-MET-3301") {
-                output.innerHTML = 
-`STATUS: VERIFIED RECORD
-----------------------------------------
-CODE:         REG-MET-3301
-ARTIST:       TWOMBLY, Cy (1928–2011)
-HORIZON:      1950–2011
-CATEGORY:     Category 2 — Conceptual Linguistics
-MEDIUM:       Oil, wax crayon, graphite, raw canvas gesture
-PROVENANCE:   The Menil Collection (Houston); Tate Modern (London)`;
+MEDIUM:       Acrylic, natural organic pigments, tactile canvas, paper fiber substrate
+PROVENANCE:   European State Museum Network; International Paper Archives; Global Participatory Linguistic Register
+ANNOTATION:   Curatorial archive documenting multi-institutional narrative gathering and circular paper fiber substrates within post-war participatory abstraction.`;
             } else {
                 output.style.color = "#ffaa00";
                 output.innerHTML = `STATUS: UNKNOWN RECORD. Code "${input}" not found in primary index cache.`;
             }
         }
+
+        // Allow 'Enter' key submission
+        document.getElementById('reg-code').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') verifyCode();
+        });
     </script>
 
 </body>
