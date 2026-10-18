@@ -6,7 +6,7 @@
     "category": "Category 2 — Conceptual Linguistics & Serial Notation",
     "medium": "Performance duration, photographic logs, physical artifact records",
     "provenance": "Museum of Modern Art (MoMA, NY); Royal Academy of Arts (London); Centre Pompidou (Paris)",
-    "note": "Pioneered endurance-based performance art, using the artist's physical body and presence as a temporal register."
+    "note": "Pioneered endurance-based performance art, utilizing physical presence as a temporal duration register."
   },
   {
     "code": "REG-TATE-1445",
@@ -16,15 +16,6 @@
     "medium": "Oil, acrylic, chalk on canvas, gestural chalkboard erasures",
     "provenance": "Ludwig Museum (Budapest); Whitney Museum of American Art (NY); Swiss Institute (NY)",
     "note": "Explores the tension between figurative line and gestural wipeouts, creating layered chalk-like canvas topographies."
-  },
-  {
-    "code": "REG-MET-1490",
-    "artist": "AFRANIUS, Ianthi",
-    "birth_death": "1920–2008, Athens",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Pigment, pulverized slate, linen weave on wooden panel",
-    "provenance": "National Gallery (Athens); Benaki Museum; European Archival Collections",
-    "note": "Investigated Mediterranean stone textures and dense mineral impasto across post-war Aegean structural panels."
   },
   {
     "code": "REG-MOMA-1530",
@@ -42,7 +33,7 @@
     "category": "Category 3 — Process Abstraction & Mechanical Gesture",
     "medium": "Oil on Masonite, precise palette knife application, nested square geometry",
     "provenance": "Josef & Anni Albers Foundation; Museum of Modern Art (MoMA, NY); Kunstmuseum Basel",
-    "note": "A disciplined investigation into color interaction and spatial depth achieved through standardized geometric nesting."
+    "note": "Disciplined investigation into color interaction and spatial depth achieved through standardized geometric nesting."
   },
   {
     "code": "REG-POMP-1575",
@@ -66,7 +57,7 @@
     "code": "REG-MOMA-1665",
     "artist": "AMER, Ghada",
     "birth_death": "b. 1963, Cairo",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Embroidery thread and gel medium on canvas, trailing textile fragments",
     "provenance": "Centre Pompidou (Paris); Brooklyn Museum (NY); Guggenheim Museum (Abu Dhabi)",
     "note": "Subverts traditional craft by employing hand-stitched thread to paint dense, expressive narrative fields."
@@ -75,7 +66,7 @@
     "code": "REG-TATE-2980",
     "artist": "ANATSUI, El",
     "birth_death": "b. 1944, Anyako",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Pressed aluminum liquor bottle caps, copper wire tapestry structures",
     "provenance": "Tate Modern (London); Metropolitan Museum of Art (NY); British Museum",
     "note": "Monumental reconfigured metallic sheets examining global consumption, trade routes, and post-colonial material history."
@@ -84,10 +75,10 @@
     "code": "REG-TATE-0044",
     "artist": "ANDRE, Carl",
     "birth_death": "1935–2024, Quincy",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Industrial steel, magnesium, zinc, brick structural arrangements",
     "provenance": "Tate Modern (London); Solomon R. Guggenheim Museum (NY); Dia Beacon",
-    "note": "A radical shift from carved volume to horizontal material placement, presenting raw matter as space itself."
+    "note": "Radical shift from carved volume to horizontal material placement, presenting raw matter as space itself."
   },
   {
     "code": "REG-MET-3645",
@@ -111,7 +102,7 @@
     "code": "REG-MET-1710",
     "artist": "ARMAN",
     "birth_death": "1928–2005, Nice",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Accumulations of sliced musical instruments, bronze castings, embedded objects in resin",
     "provenance": "Nouveau Musée National de Monaco; Centre Pompidou (Paris); MoMA (NY)",
     "note": "Nouveau Réalisme pioneer who created sculptural reliefs through mass accumulations of manufactured consumer objects."
@@ -120,7 +111,7 @@
     "code": "REG-POMP-1755",
     "artist": "ARP, Jean",
     "birth_death": "1886–1966, Strasbourg",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Painted wooden reliefs, torn paper collage according to laws of chance",
     "provenance": "Fondation Arp (Clamart); Kunstmuseum Basel; Museum of Modern Art (MoMA, NY)",
     "note": "Dada co-founder whose biomorphic relief cutouts laid the groundwork for post-war organic abstraction."
@@ -129,7 +120,7 @@
     "code": "REG-TATE-1800",
     "artist": "ARTSCHWAGER, Richard",
     "birth_death": "1923–2013, Washington D.C.",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Formica, Celotex, acrylic on heavy stippled board",
     "provenance": "Whitney Museum of American Art (NY); Tate Modern (London); Kunstmuseum Winterthur",
     "note": "Bridged Pop, Minimalism, and Photo-Realism by constructing textured grey Celotex furniture-like objects."
@@ -138,7 +129,7 @@
     "code": "REG-POMP-3735",
     "artist": "ATLAN, Jean-Michel",
     "birth_death": "1913–1960, Constantine",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Thick pastel, oil, dark biomorphic outlines on textured canvas",
     "provenance": "Musée d'Art Moderne de Paris; Centre Pompidou; Tate Modern (London)",
     "note": "Blended North African organic motifs with bold, heavy CoBrA-like gestural outlines."
@@ -156,19 +147,10 @@
     "code": "REG-POMP-1890",
     "artist": "BAECHLER, Donald",
     "birth_death": "1956–2022, Hartford",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Acrylic, fabric collage, globe paper, gesso build-ups on canvas",
     "provenance": "Broad Museum (LA); Centre Pompidou (Paris); Whitney Museum (NY)",
     "note": "Layered popular iconography over dense, heavily gessoed collage substrates reminiscent of children's line drawings."
-  },
-  {
-    "code": "REG-TATE-1935",
-    "artist": "BAKER, Denzil",
-    "birth_death": "1942–2015, Leeds",
-    "category": "Category 3 — Process Abstraction & Mechanical Gesture",
-    "medium": "Enamel, scraped pigment washes on heavy raw linen",
-    "provenance": "Leeds Art Gallery; Tate Britain (London); British Council Collection",
-    "note": "Explored British post-war industrial textures through repetitive scraping and enamel layering techniques."
   },
   {
     "code": "REG-MOMA-0089",
@@ -180,19 +162,10 @@
     "note": "Deconstructs narrative structures by isolating photographic fragments alongside austere conceptual text."
   },
   {
-    "code": "REG-MOMA-1980",
-    "artist": "BANKER, Homi",
-    "birth_death": "1928–2010, Mumbai",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Jute canvas, natural sap resins, ground sandstone pigment",
-    "provenance": "National Gallery of Modern Art (Mumbai); Jehangir Art Gallery; Asian Art Museum (San Francisco)",
-    "note": "Integrated South Asian organic materials and mineral earths into dense, tactile abstract topographies."
-  },
-  {
     "code": "REG-MET-2025",
     "artist": "BARCELÓ, Miquel",
     "birth_death": "b. 1957, Felanitx",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Mixed media, volcanic ash, organic matter, heavy relief pigment on canvas",
     "provenance": "Museo Reina Sofía (Madrid); Centre Pompidou (Paris); Guggenheim Museum (NY)",
     "note": "Creates thick, organic relief surfaces using organic matter, sea salt, and heavy earth build-ups."
@@ -201,10 +174,10 @@
     "code": "REG-MET-0105",
     "artist": "BASQUIAT, Jean-Michel",
     "birth_death": "1960–1988, New York",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Acrylic, oilstick, exposed wooden stretcher bars, text fragments on canvas",
     "provenance": "Broad Museum (LA); Whitney Museum of American Art (NY); Brooklyn Museum",
-    "note": "A raw synthesis of anatomy, street symbolism, African diaspora history, and dense textual mark-making."
+    "note": "Raw synthesis of anatomy, street symbolism, African diaspora history, and dense textual mark-making."
   },
   {
     "code": "REG-POMP-2070",
@@ -225,19 +198,10 @@
     "note": "Light and Space master who creates glass cube sculptures that absorb and reflect ambient room light."
   },
   {
-    "code": "REG-MOMA-2160",
-    "artist": "BERANT, David",
-    "birth_death": "1935–2019, Tel Aviv",
-    "category": "Category 2 — Conceptual Linguistics & Serial Notation",
-    "medium": "Ink on paper structures, serial numerical grids, canvas backing",
-    "provenance": "Tel Aviv Museum of Art; Israel Museum (Jerusalem); European Private Archival Holdings",
-    "note": "Documented temporal duration through serial pen notation and minimalist linguistic grids."
-  },
-  {
     "code": "REG-POMP-2205",
     "artist": "BERBER, Mersad",
     "birth_death": "1940–2012, Bosanski Petrovac",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Oil, gold leaf, collage, historic textile layering on canvas",
     "provenance": "National Gallery of Bosnia and Herzegovina; Tate Modern; Barcelona Contemporary Art Museum",
     "note": "Fused Ottoman heraldry, Balkan history, and Renaissance drawing techniques into rich narrative canvases."
@@ -246,7 +210,7 @@
     "code": "REG-POMP-0140",
     "artist": "BEUYS, Joseph",
     "birth_death": "1921–1986, Krefeld",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Felt, fat, copper, organic matter, blackboard notation",
     "provenance": "Hessisches Landesmuseum Darmstadt; Centre Pompidou (Paris); Tate Modern (London)",
     "note": "Expands sculpture into social practice, utilizing organic insulation materials as metaphors for ritual and healing."
@@ -255,7 +219,7 @@
     "code": "REG-TATE-2250",
     "artist": "BISSIÈRE, Roger",
     "birth_death": "1886–1964, Villeréal",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Egg tempera, woven tapestry patchworks, thick impasto linen",
     "provenance": "Musée National d'Art Moderne (Paris); Tate Modern (London); Kunstmuseum Basel",
     "note": "Pioneered non-figurative tapestry and tactile tempera grids in post-war French abstraction."
@@ -291,7 +255,7 @@
     "code": "REG-MET-2340",
     "artist": "BOLTANSKI, Christian",
     "birth_death": "1944–2021, Paris",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Used clothing mounds, tin boxes, black-and-white portraits, desk lamps",
     "provenance": "Centre Pompidou (Paris); Tate Modern (London); Park Avenue Armory (NY)",
     "note": "Constructed poignant installations addressing memory, Holocaust loss, and individual human traces."
@@ -309,25 +273,16 @@
     "code": "REG-MOMA-0255",
     "artist": "BOURGEOIS, Louise",
     "birth_death": "1911–2010, Paris",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Stitched fabric, bronze, marble, raw textile structures",
     "provenance": "Tate Modern (London); Museum of Modern Art (MoMA, NY); Centre Pompidou (Paris)",
     "note": "Transforms psychological memory and physical trauma into tactile architectural structures and stitched textile forms."
   },
   {
-    "code": "REG-TATE-2430",
-    "artist": "BRADLEY, Mark",
-    "birth_death": "1938–2004, Dublin",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Peat ash, marble dust, oil wash on heavy sailcloth",
-    "provenance": "Irish Museum of Modern Art (Dublin); Hugh Lane Gallery; European Archival Collections",
-    "note": "Explored Irish bog landscapes and organic matter through heavy, fibrous sailcloth encrustations."
-  },
-  {
     "code": "REG-TATE-3780",
     "artist": "BRADFORD, Mark",
     "birth_death": "b. 1961, Los Angeles",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Bleached merchant paper, billboard paper, caulking, gouged paper strata on canvas",
     "provenance": "Broad Museum (LA); Hirschhorn Museum (DC); Tate Modern (London)",
     "note": "Pioneered 'social abstraction' by tearing, bleaching, and sanding layers of urban billboard paper into topographical cartographies."
@@ -345,7 +300,7 @@
     "code": "REG-POMP-0112",
     "artist": "BURRI, Alberto",
     "birth_death": "1915–1995, Città di Castello",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Sacco, burlap, pitch, stitching on canvas",
     "provenance": "Fondazione Palazzo Albizzini; Centre Pompidou (Paris); Solomon R. Guggenheim Museum (NY)",
     "note": "Replaces painted illusions with stitched burlap sacks and charred plastics, treating surface as physical wound and monument."
@@ -354,7 +309,7 @@
     "code": "REG-POMP-2520",
     "artist": "CAHN, Miriam",
     "birth_death": "b. 1949, Basel",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Oil, chalk, dust, oil pastel on unprimed canvas, expressive human forms",
     "provenance": "Kunstmuseum Basel; Centre Pompidou (Paris); Palais de Tokyo",
     "note": "Confronts state violence, human migration, and gender identity through luminous, ghostly pastel fields."
@@ -363,7 +318,7 @@
     "code": "REG-TATE-2565",
     "artist": "CALZOLARI, Pier Paolo",
     "birth_death": "b. 1943, Bologna",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Frost, refrigeration structures, lead, salt, neon, moss",
     "provenance": "Tate Modern (London); Centre Pompidou (Paris); Madre Museum (Naples)",
     "note": "Arte Povera master who incorporated physical ice and frost structures onto metallic wall panels."
@@ -372,7 +327,7 @@
     "code": "REG-MOMA-2610",
     "artist": "CANOGAR, Rafael",
     "birth_death": "b. 1935, Toledo",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Polyester resin, fiberglass, heavy impasto oil on canvas",
     "provenance": "Museo Reina Sofía (Madrid); MoMA (NY); Galleria Nazionale d'Arte Moderna (Rome)",
     "note": "Founding member of El Paso group who brought sculptural relief and burnt organic materials into Spanish Informel."
@@ -399,7 +354,7 @@
     "code": "REG-TATE-2745",
     "artist": "CHAMBERLAIN, John",
     "birth_death": "1927–2011, Rochester",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Crushed automobile metal, chrome, enamel, industrial welds",
     "provenance": "Dia Beacon (NY); Tate Modern (London); MoMA (NY)",
     "note": "Translated Abstract Expressionist gestural energy into three-dimensional crushed automobile metal sculptures."
@@ -408,7 +363,7 @@
     "code": "REG-MOMA-2790",
     "artist": "CHIA, Sandro",
     "birth_death": "b. 1946, Florence",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Oil on canvas, robust heroic figuration, dense Mediterranean palette",
     "provenance": "Stedelijk Museum (Amsterdam); MoMA (NY); Tate Modern (London)",
     "note": "Transavantgarde leader who revitalized heroic figurative narrative and vibrant Mediterranean mythologies."
@@ -417,7 +372,7 @@
     "code": "REG-POMP-0290",
     "artist": "CHRISTO",
     "birth_death": "1935–2020, Gabrovo",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Woven polypropylene fabric, industrial rope, enamel, topographical drawings",
     "provenance": "Centre Pompidou (Paris); Reichstag Archive (Berlin); Smithsonian American Art Museum",
     "note": "Temporarily alters architectural and natural monuments to reveal environmental forms through industrial draping."
@@ -444,7 +399,7 @@
     "code": "REG-TATE-2880",
     "artist": "CRAGG, Tony",
     "birth_death": "b. 1949, Liverpool",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Found plastic debris, bronze, wood, glass, stacked material silhouettes",
     "provenance": "Skulpturenpark Waldfrieden (Wuppertal); Tate Modern (London); Louvre Museum",
     "note": "Organizes discarded consumer plastics and industrial materials into rhythmic, room-sized wall mosaics."
@@ -453,7 +408,7 @@
     "code": "REG-MOMA-2925",
     "artist": "CUCCHI, Enzo",
     "birth_death": "b. 1949, Morro d'Alba",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Oil, ceramic attachments, coal, charcoal on heavy canvas",
     "provenance": "Guggenheim Museum (NY); Centre Pompidou (Paris); Castello di Rivoli",
     "note": "Transavantgarde painter combining raw charcoal gestures with embedded ceramic elements depicting Italian folklore."
@@ -462,8 +417,8 @@
     "code": "REG-MET-2970",
     "artist": "DADO",
     "birth_death": "1933–2010, Cetinje",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Oil on canvas, mineral impasto, organic apocalyptic biomorphism",
+    "category": "Category 1 — Materiality & Tactile Canvas",
+    "medium": "Oil on canvas, mineral impasto, organic apocalyptic biorphism",
     "provenance": "Centre Pompidou (Paris); National Museum of Montenegro; MoMA (NY)",
     "note": "Constructed complex, pale biomorphic landscapes filled with organic decay and surreal post-war human forms."
   },
@@ -484,15 +439,6 @@
     "medium": "Oil on canvas, architectural spatial codes, classical shadow grids",
     "provenance": "Tate Modern (London); MoMA (NY); Galleria Nazionale d'Arte Moderna (Rome)",
     "note": "Pioneered Metaphysical Art, using silent architectural plazas and mysterious shadows that influenced Surrealism."
-  },
-  {
-    "code": "REG-MOMA-3105",
-    "artist": "DE GOYA, Esteban",
-    "birth_death": "1931–2016, Madrid",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Marble slurry, dark pigment, distressed wood backing",
-    "provenance": "Museo Reina Sofía (Madrid); European Regional Archives; Private Collections",
-    "note": "Investigated Spanish stone quarries and dark Iberian mineral surfaces through thick wall-like panels."
   },
   {
     "code": "REG-TATE-0361",
@@ -516,7 +462,7 @@
     "code": "REG-POMP-3015",
     "artist": "DE STAËL, Nicolas",
     "birth_death": "1914–1955, Saint Petersburg",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Heavy knife-applied impasto oil on canvas, luminous color blocks",
     "provenance": "Musée d'Art Moderne de Paris; Tate Modern (London); Phillips Collection (DC)",
     "note": "Master of thick troweled paint blocks that balance spatial landscape memory with pure tactile abstraction."
@@ -534,7 +480,7 @@
     "code": "REG-POMP-3150",
     "artist": "DINE, Jim",
     "birth_death": "b. 1935, Cincinnati",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Oil on canvas with attached hand tools, saw blades, wooden elements",
     "provenance": "Tate Modern (London); Centre Pompidou (Paris); Whitney Museum (NY)",
     "note": "Happenings pioneer who affixed real carpenter tools and robes directly onto heavily painted canvas grounds."
@@ -543,7 +489,7 @@
     "code": "REG-MOMA-3240",
     "artist": "DOIG, Peter",
     "birth_death": "b. 1959, Edinburgh",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Oil on canvas, atmospheric washes, layered snow and water surfaces",
     "provenance": "Tate Britain (London); Scottish National Gallery of Modern Art; MoMA (NY)",
     "note": "Creates dreamlike landscape narratives that blend film stills, personal memory, and rich painterly textures."
@@ -561,7 +507,7 @@
     "code": "REG-POMP-0722",
     "artist": "DUBUFFET, Jean",
     "birth_death": "1901–1985, Le Havre",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Hautes Pâtes, sand, gravel, oil, built-up impasto",
     "provenance": "Fondation Dubuffet (Paris); Centre Pompidou (Paris); Solomon R. Guggenheim Museum (NY)",
     "note": "Pioneered Art Brut, mixing raw earth, sand, and slag into heavy painterly crusts that challenge academic aesthetic values."
@@ -570,25 +516,16 @@
     "code": "REG-MOMA-3870",
     "artist": "DUMAS, Marlene",
     "birth_death": "b. 1953, Cape Town",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Thinned ink wash, oil on canvas, haunting psychological portraiture",
     "provenance": "Stedelijk Museum (Amsterdam); MoMA (NY); Tate Modern (London)",
     "note": "Explores human vulnerability, sexuality, and state oppression through fluid, translucent portrait washes."
   },
   {
-    "code": "REG-MET-3285",
-    "artist": "EVERY, Julian",
-    "birth_death": "1936–2011, Bristol",
-    "category": "Category 2 — Conceptual Linguistics & Serial Notation",
-    "medium": "Typewritten carbon sheets, structural paper mounts",
-    "provenance": "British Council Collection; Victoria and Albert Museum; Private Archival Holdings",
-    "note": "Serial conceptualist who cataloged daily linguistic output via typed carbon paper sequences."
-  },
-  {
     "code": "REG-POMP-3330",
     "artist": "FAUTRIER, Jean",
     "birth_death": "1898–1964, Paris",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "High-relief paste, plaster, pigment, paper mounted on canvas (Otages series)",
     "provenance": "Musée d'Art Moderne de Paris; Centre Pompidou; MoMA (NY)",
     "note": "Pioneered Art Informel with thick, dough-like central impasto fields expressing post-war human suffering."
@@ -651,7 +588,7 @@
     "code": "REG-TATE-3915",
     "artist": "GILLIAM, Sam",
     "birth_death": "1933–2022, Tupelo",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Draped unstretched acrylic canvas, folded mineral pigment strata",
     "provenance": "National Gallery of Art (DC); Tate Modern (London); Studio Museum in Harlem",
     "note": "Liberated canvas from wooden stretchers, draping massive, stained acrylic textiles directly from gallery ceilings."
@@ -660,7 +597,7 @@
     "code": "REG-TATE-0520",
     "artist": "GOBER, Robert",
     "birth_death": "b. 1954, Wallingford",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Handcrafted beeswax, human hair, pigment, woven fabric, plaster",
     "provenance": "Schaulager (Basel); Museum of Modern Art (MoMA, NY); Tate Modern (London)",
     "note": "Handcrafts domestic objects with unsettling anatomical modifications to explore themes of memory, sanitation, and physical body."
@@ -678,7 +615,7 @@
     "code": "REG-TATE-3510",
     "artist": "GORMLEY, Antony",
     "birth_death": "b. 1950, London",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Cast iron body forms, lead, industrial steel matrix structures",
     "provenance": "Angel of the North (Gateshead); Tate Modern (London); Louisiana Museum",
     "note": "Uses his own body footprint to cast iron figures that probe human spatial presence in nature and architecture."
@@ -696,7 +633,7 @@
     "code": "REG-MET-3600",
     "artist": "GRAUBNER, Gotthard",
     "birth_death": "1930–2013, Erlbach",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Synthetic cotton cushion under canvas, absorbed oil pigment (Farbraumkörper)",
     "provenance": "Hamburger Kunsthalle; Museum Kunstpalast (Düsseldorf); Centre Pompidou",
     "note": "Created three-dimensional 'color space bodies' by saturating padded cushion canvases with breathing pigment."
@@ -705,7 +642,7 @@
     "code": "REG-MOMA-0610",
     "artist": "GUSTON, Philip",
     "birth_death": "1913–1980, Montreal",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Oil on canvas, thick tactile impasto, heavy figurative-abstract synthesis",
     "provenance": "National Gallery of Art (DC); Tate Modern (London); Museum of Modern Art (MoMA, NY)",
     "note": "Shocked the art world by abandoning pure abstraction for heavy, tactile cartoon figures dealing with social conflict and personal dread."
@@ -714,7 +651,7 @@
     "code": "REG-MET-0650",
     "artist": "HAMMONS, David",
     "birth_death": "b. 1943, Springfield",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Body prints, grease, dirt, tarp, discarded textile assemblage",
     "provenance": "Broad Museum (LA); Museum of Modern Art (MoMA, NY); Whitney Museum",
     "note": "Uses urban materials and physical body impressions to construct sharp critiques of racial identity, commerce, and art institutions."
@@ -732,7 +669,7 @@
     "code": "REG-TATE-0701",
     "artist": "HESSE, Eva",
     "birth_death": "1936–1970, Hamburg",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Latex, fiberglass, cheesecloth, cord, sculptural canvas wall relief",
     "provenance": "Museum Wiesbaden; Yale University Art Gallery; Tate Modern (London)",
     "note": "Infused minimal sculpture with organic vulnerability, using degrading industrial latex and drooping cords to mimic human tissue."
@@ -750,7 +687,7 @@
     "code": "REG-MOMA-0785",
     "artist": "JOHNS, Jasper",
     "birth_death": "b. 1930, Augusta",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Encaustic, pigment, newsprint collage on canvas, cast object attachments",
     "provenance": "Museum of Modern Art (MoMA, NY); Whitney Museum; Philadelphia Museum of Art",
     "note": "Fused tactile hot wax encaustic with iconic emblems—flags, targets, numbers—making the picture plane a concrete physical object."
@@ -768,7 +705,7 @@
     "code": "REG-TATE-0860",
     "artist": "KAPOOR, Anish",
     "birth_death": "b. 1954, Mumbai",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Raw pigment powder, stainless steel, wax resin, void geometry",
     "provenance": "Tate Modern (London); MAXXI (Rome); Guggenheim Bilbao",
     "note": "Constructs monumental installations using light-absorbing voids and saturated raw pigments to evoke spiritual physical presence."
@@ -780,13 +717,13 @@
     "category": "Category 2 — Conceptual Linguistics & Serial Notation",
     "medium": "Liquitex on canvas, handmade cardboard box, newspaper record",
     "provenance": "Centre Pompidou (Paris); Solomon R. Guggenheim Museum (NY)",
-    "note": "A lifetime serial archive recording human temporal existence through strict linguistic and numerical notation."
+    "note": "Lifetime serial archive recording human temporal existence through strict linguistic and numerical notation."
   },
   {
     "code": "REG-MOMA-0905",
     "artist": "KELLEY, Mike",
     "birth_death": "1954–2012, Wayne",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Found stuffed yarn craft items, felt banners, multimedia structural panels",
     "provenance": "Stedelijk Museum (Amsterdam); Museum of Modern Art (MoMA, NY); MOCA (LA)",
     "note": "Re-contextualizes discarded domestic craft items to unearth psychological trauma, class memory, and institutional hypocrisy."
@@ -795,7 +732,7 @@
     "code": "REG-MET-1402",
     "artist": "KENTRIDGE, William",
     "birth_death": "b. 1955, Johannesburg",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Charcoal, pastel, ink on ledger paper and canvas structures",
     "provenance": "Zeitz MOCAA (Cape Town); Museum of Modern Art (MoMA, NY); Tate Modern",
     "note": "Combines charcoal drawing, erasure, and moving image to document socio-political memory and post-apartheid history."
@@ -804,7 +741,7 @@
     "code": "REG-TATE-0842",
     "artist": "KIEFER, Anselm",
     "birth_death": "b. 1945, Donaueschingen",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Oil, straw, ash, lead, shellac on canvas",
     "provenance": "Tate Modern (London); Royal Academy of Arts (London); Museum of Modern Art (MoMA, NY)",
     "note": "Builds dense, monumental canvas topographies using lead, ash, and straw to confront German history, myth, and post-war collective memory."
@@ -816,13 +753,13 @@
     "category": "Category 2 — Conceptual Linguistics & Serial Notation",
     "medium": "Photographic enlargement, dictionary definitions, mounted wall text",
     "provenance": "Museum of Modern Art (MoMA, NY); Centre Pompidou (Paris); Tate Modern",
-    "note": "A founding conceptualist who replaced hand-crafted objects with dictionary definitions, demonstrating that art exists in proposition."
+    "note": "Founding conceptualist who replaced hand-crafted objects with dictionary definitions, demonstrating that art exists in proposition."
   },
   {
     "code": "REG-POMP-0990",
     "artist": "KOUNELLES, Jannis",
     "birth_death": "1936–2017, Piraeus",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Burlap sacks, coal, iron plates, hemp rope, raw flame mark-making",
     "provenance": "Tate Modern (London); Centre Pompidou (Paris); Museo Capodimonte (Naples)",
     "note": "Key Arte Povera figure who incorporated raw coal, burlap, live horses, and industrial steel to reconnect art with primordial life."
@@ -846,15 +783,6 @@
     "note": "Pioneered hallucinated Infinity Net paintings and spatial dot environments as obsessive temporal registers."
   },
   {
-    "code": "REG-POMP-4050",
-    "artist": "LANYI, Stephan",
-    "birth_death": "1925–2002, Budapest",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Gypsum crusts, dark iron oxide, textured oak panels",
-    "provenance": "Hungarian National Gallery; European Regional Archives; Private Archival Holdings",
-    "note": "Explored Central European post-war mineral surfaces through raw gypsum and oxidated wall reliefs."
-  },
-  {
     "code": "REG-TATE-1075",
     "artist": "LEWITT, Sol",
     "birth_death": "1928–2007, Hartford",
@@ -867,7 +795,7 @@
     "code": "REG-MET-1115",
     "artist": "LONG, Richard",
     "birth_death": "b. 1945, Bristol",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Applied river mud, stone alignments, walk-duration textual records",
     "provenance": "Tate Britain (London); Solomon R. Guggenheim Museum (NY); National Gallery of Scotland",
     "note": "Transforms the physical act of walking across global landscapes into geometric stone arrangements and river mud wall inscriptions."
@@ -879,16 +807,16 @@
     "category": "Category 3 — Process Abstraction & Mechanical Gesture",
     "medium": "Charcoal on paper mounted on canvas, monumental hyper-detailed contrast",
     "provenance": "Albertina Museum (Vienna); MoMA (NY); Broad Museum (LA)",
-    "note": "Pictures of Generation titan who creates massive, dramatic charcoal drawings investigating power and authority."
+    "note": "Pictures Generation titan who creates massive, dramatic charcoal drawings investigating power and authority."
   },
- {
+  {
     "code": "REG-HM-ARCH.2026",
     "artist": "MALIK, Hesham",
     "birth_death": "b. 1978, Manama City",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
-    "medium": "Acrylic, natural pigments, tactile canvas, and donated linguistic units",
-    "provenance": "Participatory Linguistic Register (Tate, Harvard, Oxford, Cambridge, MIT, Svalbard Vault, Greenland National Museum, European State Museums)",
-    "note": "A multi-decade archival body translating global institutional linguistic contributions into monumental physical canvas repositories."
+    "category": "Category 4 — Global Contemporary Narrative Archives",
+    "medium": "Acrylic, natural organic pigments, tactile canvas, paper fiber substrate",
+    "provenance": "Regional European Museum Holdings; Paper Museum Repository (Duszniki-Zdrój); Participatory Linguistic Register",
+    "note": "Curatorial archive documenting multi-institutional narrative gathering and circular paper fiber substrates within post-war participatory abstraction."
   },
   {
     "code": "REG-MOMA-1160",
@@ -912,8 +840,8 @@
     "code": "REG-TATE-1739",
     "artist": "MEHRETU, Julie",
     "birth_death": "b. 1970, Addis Ababa",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
-    "medium": "Ink and acrylic on layered canvas",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
+    "medium": "Ink and acrylic on layered canvas support",
     "provenance": "Tate Modern (London); Whitney Museum of American Art (NY)",
     "note": "Large-scale structural mapping documenting global urban networks, socio-political movement, and graphic density."
   },
@@ -924,7 +852,7 @@
     "category": "Category 3 — Process Abstraction & Mechanical Gesture",
     "medium": "Oil on multi-panel canvas, vigorous gestural brushwork, saturated color fields",
     "provenance": "Fondation Louis Vuitton (Paris); SFMOMA; Art Institute of Chicago",
-    "note": "A master of Abstract Expressionism who translated landscape memory into fierce, luminous strokes across massive multi-panel canvases."
+    "note": "Master of Abstract Expressionism who translated landscape memory into fierce, luminous strokes across massive multi-panel canvases."
   },
   {
     "code": "REG-MOMA-1290",
@@ -939,7 +867,7 @@
     "code": "REG-MET-1330",
     "artist": "NEVELSON, Louise",
     "birth_death": "1899–1988, Pereiaslav",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Monochromatic painted wood assemblage wall grids",
     "provenance": "Whitney Museum (NY); Tate Modern (London); Smithsonian American Art Museum",
     "note": "Assembled discarded wooden furniture and architectural scraps into massive, monochromatic black, white, or gold puzzle-like wall monuments."
@@ -948,7 +876,7 @@
     "code": "REG-TATE-4140",
     "artist": "NICHOLSON, Ben",
     "birth_death": "1894–1982, Denham",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Carved white painted board relief, geometric spatial interlocking",
     "provenance": "Tate Britain (London); British Council Collection; MoMA (NY)",
     "note": "Pioneered British geometric abstraction through hand-carved, shallow white wooden wall reliefs."
@@ -966,7 +894,7 @@
     "code": "REG-POMP-1375",
     "artist": "PARRENO, Philippe",
     "birth_death": "b. 1964, Oran",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Marquee lights, bio-reactors, algorithmic sound, event score scripts",
     "provenance": "Palais de Tokyo (Paris); Tate Modern (London); Museum of Modern Art (MoMA, NY)",
     "note": "Pioneered Relational Aesthetics, treating entire exhibitions as scripted time-based events governed by bio-data and sound."
@@ -975,7 +903,7 @@
     "code": "REG-MET-4185",
     "artist": "PENONE, Giuseppe",
     "birth_death": "b. 1947, Garessio",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Carved timber beams exposing inner tree rings, bronze cast leaves, terracotta",
     "provenance": "Centre Pompidou (Paris); Tate Modern (London); Louvre Abu Dhabi",
     "note": "Arte Povera master who carves industrial timber back down to its original interior tree trunk state."
@@ -1020,7 +948,7 @@
     "code": "REG-MET-4410",
     "artist": "RAUSCHENBERG, Robert",
     "birth_death": "1925–2008, Port Arthur",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Combines (taxidermy, tires, radios, solvent prints on oil canvas)",
     "provenance": "Moderna Museet (Stockholm); MoMA (NY); Tate Modern (London)",
     "note": "Erased the boundary between art and life by inventing 'Combines'—affixing street debris and objects onto painted grounds."
@@ -1056,7 +984,7 @@
     "code": "REG-TATE-4500",
     "artist": "RYMAN, Robert",
     "birth_death": "1930–2019, Nashville",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "White oil paint, enamel, fiberglass, exposed steel wall fasteners",
     "provenance": "Hallen für Neue Kunst (Schaffhausen); Tate Modern; MoMA (NY)",
     "note": "Spent a career analyzing white paint application, fasteners, and support materials to examine how painting exists."
@@ -1065,7 +993,7 @@
     "code": "REG-MET-4545",
     "artist": "SALCEDO, Doris",
     "birth_death": "b. 1958, Bogotá",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Concrete-filled domestic wooden furniture, clothing fragments, rose petals",
     "provenance": "Tate Modern (London); Art Institute of Chicago; Guggenheim Museum (NY)",
     "note": "Gives physical form to political absence and trauma by sealing domestic furniture items with solid concrete."
@@ -1074,7 +1002,7 @@
     "code": "REG-POMP-4590",
     "artist": "SCHNABEL, Julian",
     "birth_death": "b. 1951, Brooklyn",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Smashed ceramic plates, bondo, oil on wood structural backing",
     "provenance": "Whitney Museum (NY); Centre Pompidou (Paris); Tate Modern",
     "note": "Pioneered Neo-Expressionist plate paintings, embedding broken crockery onto monumental plaster grounds."
@@ -1083,7 +1011,7 @@
     "code": "REG-MOMA-4635",
     "artist": "SERRA, Richard",
     "birth_death": "1938–2024, San Francisco",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "COR-TEN weathering steel, vulcanized rubber, molten lead splashes",
     "provenance": "Guggenheim Museum Bilbao; MoMA (NY); Dia Beacon",
     "note": "Redefined modern sculpture using massive, self-supporting curved steel plates that alter viewer spatial navigation."
@@ -1092,16 +1020,25 @@
     "code": "REG-TATE-4680",
     "artist": "SHERMAN, Cindy",
     "birth_death": "b. 1954, Glen Ridge",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Gelatin silver prints, chromogenic color photographs, theatrical staging logs",
     "provenance": "Museum of Modern Art (MoMA, NY); Tate Modern (London); Broad Museum",
     "note": "Uses theatrical disguise and self-portraiture to systematically dissect media tropes, identity, and female representation."
   },
   {
+    "code": "REG-POMP-1102",
+    "artist": "SHIRAGA, Kazuo",
+    "birth_death": "1924–2008, Amagasaki",
+    "category": "Category 3 — Process Abstraction & Mechanical Gesture",
+    "medium": "Oil on canvas executed with feet, rope suspension marks",
+    "provenance": "Gutai Art Association Archive; Centre Pompidou (Paris); Hyogo Prefectural Museum of Art",
+    "note": "Gutai pioneer who suspended himself from ceiling ropes to paint thick oil canvases directly with his bare feet."
+  },
+  {
     "code": "REG-MOMA-4725",
     "artist": "SOULAGES, Pierre",
     "birth_death": "1919–2022, Rodez",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Thick black oil pigment combed with custom rake tools (Outrenoir)",
     "provenance": "Musée Soulages (Rodez); Centre Pompidou (Paris); MoMA (NY)",
     "note": "Master of 'Outrenoir' (Beyond Black), sculpting thick black oil surfaces to reflect ambient light as color."
@@ -1119,7 +1056,7 @@
     "code": "REG-MOMA-0912",
     "artist": "TÀPIES, Antoni",
     "birth_death": "1923–2012, Barcelona",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Mixed media, marble dust, resin, heavy canvas",
     "provenance": "Fundació Antoni Tàpies; Museo Nacional Centro de Arte Reina Sofía (Madrid); Museum of Modern Art (MoMA, NY)",
     "note": "Pioneered European Matter Painting, constructing relief surfaces out of marble dust and clay that resemble ancient weathered walls."
@@ -1137,7 +1074,7 @@
     "code": "REG-TATE-4860",
     "artist": "TUTTLE, Richard",
     "birth_death": "b. 1941, Rahway",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Dyed cloth octagons, wire, bubble wrap, fragile plywood attachments",
     "provenance": "Whitney Museum (NY); San Francisco Museum of Modern Art; Tate Modern",
     "note": "Celebrates radical fragility, making subtle wall interventions using wire, paper scraps, and unstretched dyed textiles."
@@ -1155,7 +1092,7 @@
     "code": "REG-MOMA-4905",
     "artist": "UECKER, Günther",
     "birth_death": "b. 1930, Wendorf",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Hand-hammered nails driven into canvas-covered wooden panels",
     "provenance": "Group ZERO Archive; Hamburger Bahnhof (Berlin); Centre Pompidou",
     "note": "Group ZERO titan who hammers thousands of industrial nails into canvas fields, creating optical fields of light and shadow."
@@ -1200,19 +1137,10 @@
     "code": "REG-POMP-5130",
     "artist": "WHITEREAD, Rachel",
     "birth_death": "b. 1963, London",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Resin, plaster, rubber castings of negative spatial voids inside architecture",
     "provenance": "Tate Britain (London); National Gallery of Art (DC); Centre Pompidou",
     "note": "Renders unseen spatial memory tangible by casting the empty air inside rooms, beds, and architectural structures."
-  },
-  {
-    "code": "REG-TATE-5175",
-    "artist": "WILLIAMS, Fred",
-    "birth_death": "1927–1982, Melbourne",
-    "category": "Category 3 — Process Abstraction & Mechanical Gesture",
-    "medium": "Oil on canvas, gouached calligraphic landscape marks",
-    "provenance": "National Gallery of Australia (Canberra); Tate Britain; Art Gallery of New South Wales",
-    "note": "Redefined Australian landscape painting by paring bushland down to calligraphic floating marks on pale grounds."
   },
   {
     "code": "REG-MOMA-5220",
@@ -1224,19 +1152,10 @@
     "note": "Uses stenciled block lettering and solvent spray erasures to investigate urban linguistic breakdown."
   },
   {
-    "code": "REG-MET-5265",
-    "artist": "ZOBEL, Fernando",
-    "birth_death": "1924–1984, Manila",
-    "category": "Category 3 — Process Abstraction & Mechanical Gesture",
-    "medium": "Oil on canvas, syringe-applied calligraphic line, translucent washes",
-    "provenance": "Museo de Arte Abstracto Español (Cuenca); Ayala Museum (Manila); Museo Reina Sofía",
-    "note": "Founded the Cuenca museum of abstract art, painting delicate, syringe-drawn calligraphic lines inspired by Asian script."
-  },
-  {
     "code": "REG-MOMA-5310",
     "artist": "ABAKANOWICZ, Magdalena",
     "birth_death": "1930–2017, Falenty",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Woven sisal, burlap, resin, bronze headless figure arrays",
     "provenance": "National Museum in Wrocław; Centre Pompidou (Paris); MoMA (NY)",
     "note": "Pioneered monumental textile sculpture ('Abakans') and headless crowd forms exploring collective human anonymity."
@@ -1290,28 +1209,10 @@
     "code": "REG-TATE-5580",
     "artist": "APPEL, Karel",
     "birth_death": "1921–2006, Amsterdam",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Oil on canvas, heavy expressive impasto, primary biomorphic figures",
     "provenance": "Rijksmuseum; Stedelijk Museum (Amsterdam); Tate Modern (London)",
     "note": "Co-founder of CoBrA who applied thick, tube-squeezed paint to express primal human vitality."
-  },
-  {
-    "code": "REG-POMP-5625",
-    "artist": "ARMANI, Roberto",
-    "birth_death": "1932–2009, Milan",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Charred timber slurry, marble slurry, industrial canvas backing",
-    "provenance": "Pinacoteca di Brera; European Archival Collections; Private Holdings",
-    "note": "Investigated post-industrial Italian urban surfaces through heavy mineral crusts and charred wood reliefs."
-  },
-  {
-    "code": "REG-MOMA-5670",
-    "artist": "AUDIARD, Michel",
-    "birth_death": "1922–1998, Paris",
-    "category": "Category 2 — Conceptual Linguistics & Serial Notation",
-    "medium": "Engraved zinc plates, etched typologies, structural paper mounts",
-    "provenance": "Musée d'Art Moderne de Paris; Centre Pompidou; Private European Holdings",
-    "note": "Serial printmaker and conceptualist who cataloged mechanical language typologies across industrial metal sheets."
   },
   {
     "code": "REG-MET-5715",
@@ -1332,15 +1233,6 @@
     "note": "Futurist master whose dynamic velocity lines laid early foundations for post-war mechanical abstraction."
   },
   {
-    "code": "REG-POMP-5805",
-    "artist": "BARISANI, Renato",
-    "birth_death": "1918–2011, Naples",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Plexiglass, volcanic ash, oil on carved panel (MAC Naples group)",
-    "provenance": "Museo Capodimonte (Naples); MAXXI (Rome); Private European Collections",
-    "note": "Leader of Neapolitan concrete art who combined synthetic resins with organic volcanic minerals."
-  },
-  {
     "code": "REG-MOMA-5850",
     "artist": "BARTLETT, Jennifer",
     "birth_death": "1941–2022, Long Beach",
@@ -1359,19 +1251,10 @@
     "note": "Site-specific conceptualist who painted indigenous site names onto museum architecture to critique colonial mapping."
   },
   {
-    "code": "REG-TATE-5940",
-    "artist": "BAZZI, Carlo",
-    "birth_death": "1926–2001, Turin",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Industrial bitumen, pulverized granite, heavy jute canvas",
-    "provenance": "Museo del Novecento (Milan); European Archival Collections",
-    "note": "Pioneered Italian post-war Informel experiments with raw bitumen encrustations and quarry dust."
-  },
-  {
     "code": "REG-POMP-5985",
     "artist": "BELMORE, Rebecca",
     "birth_death": "b. 1960, Upsala",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Clay, canvas, natural materials, performance artifact records",
     "provenance": "National Gallery of Canada; Art Gallery of Ontario; Documenta Archives",
     "note": "First Nations artist who uses performance and raw natural materials to confront Indigenous displacement and memory."
@@ -1389,7 +1272,7 @@
     "code": "REG-MET-6075",
     "artist": "BENGLIS, Lynda",
     "birth_death": "b. 1941, Lake Charles",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Poured colorful latex, polyurethane foam, pleated bronze paper reliefs",
     "provenance": "Whitney Museum (NY); MoMA (NY); Tate Modern (London)",
     "note": "Pioneered poured latex floor sculptures and pleated metallic knots that challenge rigid Minimalist forms."
@@ -1443,7 +1326,7 @@
     "code": "REG-POMP-6345",
     "artist": "CAMARGO, Sergio de",
     "birth_death": "1930–1990, Rio de Janeiro",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Painted white wooden cylinder reliefs, Carrara marble constructions",
     "provenance": "Tate Modern (London); MAM Rio; Centre Pompidou (Paris)",
     "note": "Constructed relief surfaces out of hundreds of angled, white-painted wooden cylinders that catch light."
@@ -1452,37 +1335,19 @@
     "code": "REG-MOMA-6390",
     "artist": "CÉSAR (BALDACCINI)",
     "birth_death": "1921–1998, Marseille",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Compressed crushed automobiles (Compressions), expanded polyurethane foam",
     "provenance": "Centre Pompidou (Paris); Tate Modern (London); MoMA (NY)",
     "note": "Nouveau Réalisme pioneer known for hydraulically compressed automobile sculptures and expanded foam pours."
   },
   {
-    "code": "REG-MET-6435",
-    "artist": "CHOUDHURY, Bijan",
-    "birth_death": "1931–2012, Kolkata",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
-    "medium": "Oil and tempera on canvas, structural human narrative forms",
-    "provenance": "National Gallery of Modern Art (New Delhi); Kolkata State Archives",
-    "note": "Society of Contemporary Artists co-founder who documented South Asian post-war social resilience."
-  },
-  {
     "code": "REG-TATE-6480",
     "artist": "CLARK, Lygia",
     "birth_death": "1920–1988, Belo Horizonte",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Hinged aluminum geometric plates (Bichos), tactile sensory objects",
     "provenance": "MoMA (NY); Tate Modern (London); Museu de Arte Moderna de São Paulo",
     "note": "Neo-Concrete pioneer whose foldable aluminum geometric sculptures invited physical spectator participation."
-  },
-  {
-    "code": "REG-POMP-6525",
-    "artist": "CORA, Pietro",
-    "birth_death": "1928–2005, Verona",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Crushed limestone paste, lead sheet binding on canvas",
-    "provenance": "Verona Municipal Archives; Italian Private Collections",
-    "note": "Explored Northern Italian mineral earths through heavy lead-bound limestone relief panels."
   },
   {
     "code": "REG-MOMA-6570",
@@ -1494,15 +1359,6 @@
     "note": "Precisionist-Pop painter who reduced American highway infrastructure into stark geometric perspective lines."
   },
   {
-    "code": "REG-MET-6615",
-    "artist": "DANIELS, Gene",
-    "birth_death": "1934–2009, Chicago",
-    "category": "Category 2 — Conceptual Linguistics & Serial Notation",
-    "medium": "Stenciled numbers, industrial spray paint on unprimed canvas",
-    "provenance": "Art Institute of Chicago; Midwest Archival Collections",
-    "note": "Cataloged urban mechanical serial numbers using stark stenciled spray paint on raw duck."
-  },
-  {
     "code": "REG-TATE-6660",
     "artist": "DE MARIA, Nicola",
     "birth_death": "b. 1954, Foglianise",
@@ -1510,15 +1366,6 @@
     "medium": "Oil and fresco on canvas/wall structures, lyrical poetic color fields",
     "provenance": "Stedelijk Museum; Castello di Rivoli; Kunsthalle Basel",
     "note": "Transavantgarde member who painted immersive, lyrical color frescoes across entire room walls."
-  },
-  {
-    "code": "REG-POMP-6705",
-    "artist": "DELEUZE, Jean-Marc",
-    "birth_death": "1929–1991, Lyon",
-    "category": "Category 2 — Conceptual Linguistics & Serial Notation",
-    "medium": "Etched glass plates, typewritten mathematical duration logs",
-    "provenance": "Musée d'Art Contemporain de Lyon; French Archival Collections",
-    "note": "Analyzed linguistic velocity by scoring mathematical formulas directly onto layered glass panels."
   },
   {
     "code": "REG-MOMA-6750",
@@ -1533,34 +1380,16 @@
     "code": "REG-MET-6795",
     "artist": "DI SUVERO, Mark",
     "birth_death": "b. 1933, Shanghai",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Steel I-beams, industrial cranes, unrefined iron timber beams",
     "provenance": "Storm King Art Center (NY); Hirschhorn Museum (DC); Louvre Museum",
     "note": "Constructs monumental, architectural steel I-beam sculptures that dynamic space."
   },
   {
-    "code": "REG-TATE-6840",
-    "artist": "DILL, Ladislav",
-    "birth_death": "1927–2003, Prague",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Slag, iron filings, dark resin on heavy panel",
-    "provenance": "National Gallery Prague; European Regional Archives",
-    "note": "Czech Informel figure who mixed industrial foundry slag and iron dust into dense dark reliefs."
-  },
-  {
-    "code": "REG-POMP-6885",
-    "artist": "DOROSH, Daria",
-    "birth_death": "b. 1943, Chambery",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Pigment, hand-stitched digital textiles, heavy linen substrate",
-    "provenance": "Ukrainian Museum (NY); Brooklyn Museum; Private Collections",
-    "note": "Combines digital textile structures with traditional pigment application to explore tactile material memory."
-  },
-  {
     "code": "REG-MOMA-6930",
     "artist": "DREW, Leonardo",
     "birth_death": "b. 1961, Tallahassee",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Artificially rusted iron, charred wood, cotton, cast paper grid wall monuments",
     "provenance": "Metropolitan Museum of Art (NY); Solomon R. Guggenheim Museum; Hirschhorn",
     "note": "Constructs massive wall reliefs out of artificially weathered and oxidized materials without paint."
@@ -1578,7 +1407,7 @@
     "code": "REG-TATE-7020",
     "artist": "EMIN, Tracey",
     "birth_death": "b. 1963, London",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Handmade neon text, stitched applique fabric blankets, raw gouache/canvas",
     "provenance": "Tate Britain (London); Scottish National Gallery of Modern Art; Broad Museum",
     "note": "YBA master who translates intimate emotional confession and memory into neon handwriting and stitched textiles."
@@ -1587,7 +1416,7 @@
     "code": "REG-POMP-7065",
     "artist": "ERRÓ (GUDMUNDSSON)",
     "birth_death": "b. 1932, Ólafsvík",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Alkyd, oil on canvas, dense comic montage narratives, geopolitical collages",
     "provenance": "Reykjavík Art Museum; Centre Pompidou (Paris); MACBA (Barcelona)",
     "note": "Narrative Figuration titan who paints dense, overwhelming visual montages analyzing mass media propaganda."
@@ -1596,7 +1425,7 @@
     "code": "REG-MOMA-7110",
     "artist": "FALKENSTEIN, Claire",
     "birth_death": "1908–1997, Coos Bay",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Welded copper wire, fused glass lumps, interlocking web structures",
     "provenance": "Peggy Guggenheim Collection (Venice); Rodin Museum (Paris); LACMA",
     "note": "Pioneered endless, web-like welded copper wire structures enclosing fused glass lumps."
@@ -1641,7 +1470,7 @@
     "code": "REG-MET-7335",
     "artist": "GALLIZIO, Pinot",
     "birth_death": "1902–1964, Alba",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Industrial resin, oil, pitch, chemical paint rolls (Industrial Painting)",
     "provenance": "Stedelijk Museum; Centre Pompidou; Rivoli Castle",
     "note": "Situationist International figure who invented 'Industrial Painting' on long bolts of canvas to critique commodity art."
@@ -1668,7 +1497,7 @@
     "code": "REG-MOMA-7470",
     "artist": "GILBERT & GEORGE",
     "birth_death": "b. 1943 / 1942, San Martin / Plymouth",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Hand-tinted framed grid photo-monuments, graphic black window lines",
     "provenance": "Tate Modern (London); Stedelijk Museum; MoMA (NY)",
     "note": "Living Sculptures who present massive stained-glass-like photo grids documenting urban life, sexuality, and identity."
@@ -1713,7 +1542,7 @@
     "code": "REG-MET-7695",
     "artist": "GROSVENOR, Robert",
     "birth_death": "b. 1937, New York",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Creosote-soaked timber, fiberglass, steel, industrial structural beams",
     "provenance": "Dia Beacon (NY); Walker Art Center; Whitney Museum (NY)",
     "note": "Minimalist sculptor who creates massive, low-slung creosote timber and steel structures that alter room scale."
@@ -1737,15 +1566,6 @@
     "note": "Invented 'Pliage' (folding canvas before painting it), leaving unpainted silent voids when unfolded."
   },
   {
-    "code": "REG-MOMA-7830",
-    "artist": "HEATON, Clement",
-    "birth_death": "1930–2014, Manchester",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Pulverized copper ore, resin, coarse hessian weave",
-    "provenance": "Manchester Art Gallery; British Archival Collections",
-    "note": "Explored Northern English industrial minerals through coarse hessian canvas encrustations."
-  },
-  {
     "code": "REG-MET-7875",
     "artist": "HEILMANN, Mary",
     "birth_death": "b. 1940, San Francisco",
@@ -1767,7 +1587,7 @@
     "code": "REG-POMP-7965",
     "artist": "HURTADO, Luchita",
     "birth_death": "1920–2020, Maiquetía",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Oil, crayon, ink on canvas, downward bodily perspective, language motifs",
     "provenance": "LACMA (Los Angeles); Tate Modern (London); Tamayo Museum (Mexico City)",
     "note": "Painted intimate surrealist self-portraits looking down at her own body, integrating environmental language motifs."
@@ -1794,7 +1614,7 @@
     "code": "REG-TATE-8100",
     "artist": "JAAR, Alfredo",
     "birth_death": "b. 1956, Santiago",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Lightboxes, mirrors, photographic records, political text matrices",
     "provenance": "Moderna Museet (Stockholm); MAXXI (Rome); Hirschhorn Museum",
     "note": "Confronts global humanitarian crises, state violence, and media ethics through lightboxes and mirrors."
@@ -1803,7 +1623,7 @@
     "code": "REG-POMP-8145",
     "artist": "JACOBSEN, Robert",
     "birth_death": "1912–1993, Copenhagen",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Black welded scrap iron, open linear steel space-drawings",
     "provenance": "National Gallery of Denmark; Centre Pompidou (Paris); Carnegie Museum",
     "note": "Danish master who welded heavy black scrap iron into graceful, weightless spatial drawings."
@@ -1821,7 +1641,7 @@
     "code": "REG-MET-8235",
     "artist": "KADISHMAN, Menashe",
     "birth_death": "1932–2015, Tel Aviv",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Cut steel plates, heavy iron face cutouts, glass-and-stone balance installations",
     "provenance": "Jewish Museum Berlin; Israel Museum; Tate Modern (London)",
     "note": "Israeli master famous for 'Fallen Leaves' (thousands of screaming cut-steel iron faces covering gallery floors)."
@@ -1836,19 +1656,10 @@
     "note": "Creates hypnotic visual poetry and pattern grids using manual typewriter ribbon repetitions."
   },
   {
-    "code": "REG-POMP-8325",
-    "artist": "KØBKE, Søren",
-    "birth_death": "1931–2008, Aarhus",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Granite dust, dark linseed paste, oak substrate",
-    "provenance": "ARoS Aarhus Art Museum; Danish Archival Collections",
-    "note": "Investigated Nordic stone textures through heavy granite dust and linseed paste wall reliefs."
-  },
-  {
     "code": "REG-MOMA-8370",
     "artist": "LASSNIG, Maria",
     "birth_death": "1919–2014, Kappel am Krappfeld",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Oil on canvas, 'Body Awareness' expressive figuration",
     "provenance": "Albertina (Vienna); MoMA (NY); Stedelijk Museum",
     "note": "Pioneered 'Body Awareness' painting, depicting physical sensations and internal bodily feelings from within."
@@ -1857,7 +1668,7 @@
     "code": "REG-MET-8415",
     "artist": "LIGABUE, Antonio",
     "birth_death": "1899–1965, Zurich",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Oil on canvas, dense tactile impasto, wild organic animal motifs",
     "provenance": "Museo Ligabue (Gualtieri); Galleria Nazionale Parma",
     "note": "Outsider Art titan whose thick, raw paint impasto rendered ferocious wilderness struggles."
@@ -1884,7 +1695,7 @@
     "code": "REG-MOMA-8550",
     "artist": "MANZONI, Piero",
     "birth_death": "1933–1963, Soncino",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Kaolin clay on pleated canvas (Achromes), glass wool, bread rolls, cotton",
     "provenance": "Fondazione Piero Manzoni; Tate Modern; MoMA (NY)",
     "note": "Radical avant-gardist who eliminated color through 'Achromes' (raw canvas soaked in liquid white kaolin clay)."
@@ -1893,7 +1704,7 @@
     "code": "REG-MET-8595",
     "artist": "MATTA-CLARK, Gordon",
     "birth_death": "1943–1978, New York",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Carved architectural building cuts, photo-documentation, floor section slabs",
     "provenance": "Guggenheim Museum (NY); MCA Chicago; Centre Pompidou",
     "note": "Pioneered 'Anarchitecture', carving massive geometric slices directly out of abandoned real estate buildings."
@@ -1947,7 +1758,7 @@
     "code": "REG-POMP-8865",
     "artist": "MUSIC, Zoran",
     "birth_death": "1909–2005, Bukovica",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Oil on canvas, pale rocky earth tones, haunting Dachau survivor figures",
     "provenance": "Centre Pompidou (Paris); Museo Reina Sofía; Venice Biennale Archives",
     "note": "Concentration camp survivor who painted muted, stone-colored landscapes and haunting, tragic human bodies."
@@ -1956,43 +1767,25 @@
     "code": "REG-MOMA-8910",
     "artist": "NENGUDI, Senga",
     "birth_death": "b. 1943, Chicago",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Stretched pantyhose, sand, performance duration, foam attachments",
     "provenance": "MoMA (NY); Tate Modern (London); Studio Museum in Harlem",
     "note": "Pioneered 'RŠS33' sculptures using sand-filled nylon pantyhose stretched under tension across gallery corners."
   },
   {
-    "code": "REG-MET-8955",
-    "artist": "NEUMANN, Ernst",
-    "birth_death": "1924–2001, Berlin",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Plaster crusts, graphite slurry, iron rod backing",
-    "provenance": "Berlinische Galerie; German Archival Collections",
-    "note": "Documented post-war Berlin architectural rubble through heavy plaster and iron rod reliefs."
-  },
-  {
     "code": "REG-TATE-9000",
     "artist": "NOGUCHI, Isamu",
     "birth_death": "1904–1988, Los Angeles",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Carved basalt, granite, Akari paper lanterns, interlocking marble slabs",
     "provenance": "Noguchi Museum (NY); MoMA (NY); Tate Modern (London)",
     "note": "Merged Japanese traditional stone carving with Western modernism, treating raw basalt and space as unified environment."
   },
   {
-    "code": "REG-POMP-9045",
-    "artist": "NULAND, Herman",
-    "birth_death": "1933–2012, Rotterdam",
-    "category": "Category 2 — Conceptual Linguistics & Serial Notation",
-    "medium": "Punched paper cards, iron oxide wash, steel mountings",
-    "provenance": "Boijmans Van Beuningen Museum; Dutch Archival Collections",
-    "note": "Dutch conceptualist who cataloged shipping container registry numbers using punched computer cards."
-  },
-  {
     "code": "REG-MOMA-9090",
     "artist": "OITICICA, Hélio",
     "birth_death": "1937–1980, Rio de Janeiro",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Wearable capes (Parangolés), colored sand, labyrinth architectural rooms",
     "provenance": "Tate Modern (London); MAM Rio; MoMA (NY)",
     "note": "Neo-Concrete leader who invented 'Parangolés' (wearable fabric capes activated through dance) and Tropicalia environments."
@@ -2001,7 +1794,7 @@
     "code": "REG-MET-9135",
     "artist": "OLDENBURG, Claes",
     "birth_death": "1929–2022, Stockholm",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Soft vinyl, canvas stuffed with kapok, giant steel monument sculptures",
     "provenance": "MoMA (NY); Whitney Museum (NY); Tate Modern (London)",
     "note": "Pop pioneer who transformed rigid household objects and food items into giant, drooping soft vinyl sculptures."
@@ -2028,7 +1821,7 @@
     "code": "REG-MOMA-9270",
     "artist": "PARK, Seo-Bo",
     "birth_death": "1931–2023, Yecheon",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Hand-drawn pencil lines in wet white oil paint (Écriture), layered Hanji paper",
     "provenance": "National Museum of Modern and Contemporary Art (Korea); Guggenheim (NY); M+",
     "note": "Father of Dansaekhwa (Korean Monochrome) famous for repetitive pencil carvings made into wet paint and Hanji paper."
@@ -2046,7 +1839,7 @@
     "code": "REG-TATE-9360",
     "artist": "PEREZ, Javier",
     "birth_death": "b. 1968, Bilbao",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Blown glass, horsehair, parchment, organic anatomical casings",
     "provenance": "Guggenheim Bilbao; Centre Pompidou (Paris); Museo Reina Sofía",
     "note": "Constructs fragile, unsettling sculptural casings using blown glass, intestines, and organic hair."
@@ -2055,7 +1848,7 @@
     "code": "REG-POMP-9405",
     "artist": "PRAMPOLINI, Enrico",
     "birth_death": "1894–1956, Modena",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Sponge, pumice stone, industrial zinc, oil on panel (Polymaterial art)",
     "provenance": "Galleria Nazionale d'Arte Moderna (Rome); Centre Pompidou; MART Trento",
     "note": "Futurist pioneer of 'Polymaterialism', constructing reliefs out of pumice stone, sponge, and sheet metal."
@@ -2082,7 +1875,7 @@
     "code": "REG-TATE-9540",
     "artist": "RIOPELLE, Jean-Paul",
     "birth_death": "1923–2002, Montreal",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Heavy knife-applied paint impasto, mosaic-like paint squeeze strata",
     "provenance": "National Gallery of Canada; Centre Pompidou (Paris); Tate Modern",
     "note": "Les Automatistes master who applied pure paint directly from tubes using palette knives to create mosaic-like crusts."
@@ -2091,7 +1884,7 @@
     "code": "REG-POMP-9585",
     "artist": "RIVERS, Larry",
     "birth_death": "1923–2002, Bronx",
-    "category": "Category 4 — Global Contemporary Narrative & Social Archives",
+    "category": "Category 4 — Global Contemporary Narrative Archives",
     "medium": "Oil, charcoal, photo collage on canvas, smudged history narratives",
     "provenance": "MoMA (NY); Whitney Museum (NY); Tate Modern (London)",
     "note": "Bridged Abstract Expressionism and Pop Art by combining smudged charcoal marks with historical commercial icons."
@@ -2100,25 +1893,16 @@
     "code": "REG-MOMA-9630",
     "artist": "ROTELLA, Mimmo",
     "birth_death": "1918–2006, Catanzaro",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Torn street movie posters mounted on canvas (Décollage)",
     "provenance": "MAXXI (Rome); Centre Pompidou (Paris); MoMA (NY)",
     "note": "Nouveau Réalisme pioneer who invented 'Décollage', ripping down layers of street movie posters to reveal urban history."
   },
   {
-    "code": "REG-MET-9675",
-    "artist": "SANEPOI, Kazuya",
-    "birth_death": "1928–1999, Kyoto",
-    "category": "Category 2 — Conceptual Linguistics & Serial Notation",
-    "medium": "Sumi ink on Mulberry paper, serial line count registers",
-    "provenance": "Kyoto National Museum of Modern Art; Asian Art Museum",
-    "note": "Cataloged temporal breath duration using thousands of identical parallel sumi ink lines on raw paper."
-  },
-  {
     "code": "REG-TATE-9720",
     "artist": "SCHOONHOVEN, Jan",
     "birth_death": "1914–1994, Delft",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Papier-mâché, white latex paint on cardboard grid wall reliefs",
     "provenance": "NUL Group Archive; Stedelijk Museum; Tate Modern (London)",
     "note": "NUL Group co-founder who built immaculate white geometric grid reliefs out of cardboard and papier-mâché."
@@ -2142,15 +1926,6 @@
     "note": "Pioneered Kinetic Sculptures using invisible electromagnetic fields to suspend heavy steel needles in mid-air."
   },
   {
-    "code": "REG-MET-9855",
-    "artist": "TÀPIES-BARBA, Antoni",
-    "birth_death": "1956–2021, Barcelona",
-    "category": "Category 1 — Materiality & Tactile Surface",
-    "medium": "Resin, pulverized brick slurry, linen canvas",
-    "provenance": "Fundació Tàpies; Barcelona Archival Collections",
-    "note": "Explored Catalan ceramic and brick waste materials through heavy mineral wall panels."
-  },
-  {
     "code": "REG-TATE-9900",
     "artist": "TOBEY, Mark",
     "birth_death": "1890–1976, Centerville",
@@ -2163,7 +1938,7 @@
     "code": "REG-POMP-9945",
     "artist": "TURNBULL, William",
     "birth_death": "1922–2012, Dundee",
-    "category": "Category 1 — Materiality & Tactile Surface",
+    "category": "Category 1 — Materiality & Tactile Canvas",
     "medium": "Cast bronze, raw wood, acrylic on canvas, totem-like vertical forms",
     "provenance": "Tate Britain (London); Scottish National Gallery of Modern Art; Hirschhorn",
     "note": "British sculptor and painter who built minimalist bronze totem poles and flat Color Field canvases."
