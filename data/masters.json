@@ -890,6 +890,7 @@
     "provenance": "Palais de Tokyo (Paris); Tate Modern (London); Museum of Modern Art (MoMA, NY)",
     "note": "Pioneered Relational Aesthetics, treating entire exhibitions as scripted time-based events governed by bio-data and sound."
   },
+  [
   {
     "code": "2011.84.185",
     "artist": "PENONE, Giuseppe",
@@ -1017,15 +1018,6 @@
     "note": "Uses theatrical disguise and self-portraiture to systematically dissect media tropes, identity, and female representation."
   },
   {
-    "code": "1999.16.102",
-    "artist": "SHIRAGA, Kazuo",
-    "birth_death": "1924–2008, Amagasaki",
-    "category": "Category 3 — Process Abstraction & Mechanical Gesture",
-    "medium": "Oil on canvas executed with feet, rope suspension marks",
-    "provenance": "Gutai Art Association Archive; Centre Pompidou (Paris); Hyogo Prefectural Museum of Art",
-    "note": "Gutai pioneer who suspended himself from ceiling ropes to paint thick oil canvases directly with his bare feet."
-  },
-  {
     "code": "2005.28.725",
     "artist": "SOULAGES, Pierre",
     "birth_death": "1919–2022, Rodez",
@@ -1044,15 +1036,6 @@
     "note": "Declared 'what you see is what you see', creating famous Black Paintings and shaped canvases that launched Minimalism."
   },
   {
-    "code": "1998.14.912",
-    "artist": "TÀPIES, Antoni",
-    "birth_death": "1923–2012, Barcelona",
-    "category": "Category 1 — Materiality & Tactile Canvas",
-    "medium": "Mixed media, marble dust, resin, heavy canvas",
-    "provenance": "Fundació Antoni Tàpies; Museo Nacional Centro de Arte Reina Sofía (Madrid); Museum of Modern Art (MoMA, NY)",
-    "note": "Pioneered European Matter Painting, constructing relief surfaces out of marble dust and clay that resemble ancient weathered walls."
-  },
-  {
     "code": "2003.36.815",
     "artist": "TINGUELY, Jean",
     "birth_death": "1925–1991, Fribourg",
@@ -1060,87 +1043,6 @@
     "medium": "Motorized scrap iron machinery, self-destructing kinetics, wheels",
     "provenance": "Museum Tinguely (Basel); Centre Pompidou (Paris); MoMA (NY)",
     "note": "Created kinetic machine sculptures that make spontaneous drawings and self-destruct in public performances."
-  },
-  {
-    "code": "2010.71.860",
-    "artist": "TUTTLE, Richard",
-    "birth_death": "b. 1941, Rahway",
-    "category": "Category 1 — Materiality & Tactile Canvas",
-    "medium": "Dyed cloth octagons, wire, bubble wrap, fragile plywood attachments",
-    "provenance": "Whitney Museum (NY); San Francisco Museum of Modern Art; Tate Modern",
-    "note": "Celebrates radical fragility, making subtle wall interventions using wire, paper scraps, and unstretched dyed textiles."
-  },
-  {
-    "code": "2000.08.301",
-    "artist": "TWOMBLY, Cy",
-    "birth_death": "1928–2011, Lexington",
-    "category": "Category 2 — Conceptual Linguistics & Serial Notation",
-    "medium": "Oil, wax crayon, graphite, raw canvas gesture",
-    "provenance": "Menil Collection (Houston); Tate Modern (London); Museum of Modern Art (MoMA, NY)",
-    "note": "Fused classical mythology with energetic scribbles, graffiti-like script, and raw poetic mark-making across off-white canvases."
-  },
-  {
-    "code": "2007.44.905",
-    "artist": "UECKER, Günther",
-    "birth_death": "b. 1930, Wendorf",
-    "category": "Category 1 — Materiality & Tactile Canvas",
-    "medium": "Hand-hammered nails driven into canvas-covered wooden panels",
-    "provenance": "Group ZERO Archive; Hamburger Bahnhof (Berlin); Centre Pompidou",
-    "note": "Group ZERO titan who hammers thousands of industrial nails into canvas fields, creating optical fields of light and shadow."
-  },
-  {
-    "code": "1999.17.950",
-    "artist": "VASARELY, Victor",
-    "birth_death": "1906–1997, Pécs",
-    "category": "Category 3 — Process Abstraction & Mechanical Gesture",
-    "medium": "Oil and acrylic on canvas, geometric optical distortion grids",
-    "provenance": "Vasarely Museum (Budapest); Centre Pompidou (Paris); MoMA (NY)",
-    "note": "Father of Op Art, constructing rigorous geometric grid systems that warp optically to create spatial illusions."
-  },
-  {
-    "code": "2002.31.995",
-    "artist": "VEDOVA, Emilio",
-    "birth_death": "1919–2006, Venice",
-    "category": "Category 3 — Process Abstraction & Mechanical Gesture",
-    "medium": "Oil, charcoal, sand on double-sided wooden panels (Dischi series)",
-    "provenance": "Fondazione Emilio e Annabianca Vedova (Venice); MAXXI (Rome); MoMA (NY)",
-    "note": "Italian Informel master who painted dramatic black-and-white gestural panels that hang directly in gallery space."
-  },
-  {
-    "code": "1998.05.040",
-    "artist": "WARHOL, Andy",
-    "birth_death": "1928–1987, Pittsburgh",
-    "category": "Category 2 — Conceptual Linguistics & Serial Notation",
-    "medium": "Silkscreen ink and synthetic polymer paint on canvas, serial grids",
-    "provenance": "Andy Warhol Museum (Pittsburgh); Tate Modern (London); MoMA (NY)",
-    "note": "Pop Art icon who used mechanical silkscreen repetition to catalog mass culture, celebrity, and consumer identity."
-  },
-  {
-    "code": "2006.59.085",
-    "artist": "WEINER, Lawrence",
-    "birth_death": "1942–2021, Bronx",
-    "category": "Category 2 — Conceptual Linguistics & Serial Notation",
-    "medium": "Direct wall typography, language statements, spatial specifications",
-    "provenance": "Stedelijk Museum (Amsterdam); Whitney Museum (NY); Tate Modern",
-    "note": "Conceptual legend whose work consisted of written linguistic statements painted directly onto architectural walls."
-  },
-  {
-    "code": "2012.83.130",
-    "artist": "WHITEREAD, Rachel",
-    "birth_death": "b. 1963, London",
-    "category": "Category 1 — Materiality & Tactile Canvas",
-    "medium": "Resin, plaster, rubber castings of negative spatial voids inside architecture",
-    "provenance": "Tate Britain (London); National Gallery of Art (DC); Centre Pompidou",
-    "note": "Renders unseen spatial memory tangible by casting the empty air inside rooms, beds, and architectural structures."
-  },
-  {
-    "code": "2015.101.220",
-    "artist": "WOOL, Christopher",
-    "birth_death": "b. 1955, Chicago",
-    "category": "Category 2 — Conceptual Linguistics & Serial Notation",
-    "medium": "Alkyd and spray paint on aluminum, stenciled block typography, spray erasures",
-    "provenance": "Guggenheim Museum (NY); Broad Museum (LA); Tate Modern (London)",
-    "note": "Uses stenciled block lettering and solvent spray erasures to investigate urban linguistic breakdown."
   },
   {
     "code": "2001.27.310",
@@ -1159,15 +1061,6 @@
     "medium": "Paint on transparent Sicofoil sheets, calligraphic sign arrays",
     "provenance": "Rivoli Castle Contemporary Art Museum; MAXXI (Rome); Guggenheim Museum (NY)",
     "note": "Forma 1 co-founder who painted calligraphic signs on clear plastic Sicofoil to let ambient light act as canvas."
-  },
-  {
-    "code": "1997.11.400",
-    "artist": "AFRO (BASALDELLA)",
-    "birth_death": "1912–1976, Udine",
-    "category": "Category 3 — Process Abstraction & Mechanical Gesture",
-    "medium": "Oil on canvas, atmospheric lyrical color fields, veiled gestural geometries",
-    "provenance": "Galleria Nazionale d'Arte Moderna (Rome); MoMA (NY); Tate Modern (London)",
-    "note": "Leading Italian Informel master known for luminous, veiled color planes and poetic architectural geometry."
   },
   {
     "code": "2008.62.445",
@@ -1213,15 +1106,6 @@
     "medium": "Oil and acrylic on canvas, thin black and color border bands around white voids",
     "provenance": "Whitney Museum (NY); Tate Modern (London); Stedelijk Museum",
     "note": "Minimalist painter known for immaculate white square canvases bounded by precise colored edge-bands."
-  },
-  {
-    "code": "1996.04.760",
-    "artist": "BALLA, Giacomo",
-    "birth_death": "1871–1958, Turin",
-    "category": "Category 3 — Process Abstraction & Mechanical Gesture",
-    "medium": "Oil on canvas, speed lines, light decomposition velocity grids",
-    "provenance": "Galleria Nazionale d'Arte Moderna (Rome); MoMA (NY); Tate Modern",
-    "note": "Futurist master whose dynamic velocity lines laid early foundations for post-war mechanical abstraction."
   },
   {
     "code": "2007.48.850",
@@ -1276,15 +1160,6 @@
     "medium": "Oil and re-applied wash on linen, delicate architectural square geometries",
     "provenance": "Kunstmuseum Basel; MoMA (NY); Centre Pompidou (Paris)",
     "note": "Created quiet, luminous abstract squares built from thinned, translucent paint layers."
-  },
-  {
-    "code": "1998.07.165",
-    "artist": "BOTO, Martha",
-    "birth_death": "1925–2004, Buenos Aires",
-    "category": "Category 3 — Process Abstraction & Mechanical Gesture",
-    "medium": "Motorized chrome, plexiglass light distortion boxes",
-    "provenance": "Centre Pompidou (Paris); Museo de Arte Moderno de Buenos Aires; Houston Museum of Fine Arts",
-    "note": "Pioneer of Kinetic Art who created motorized, light-refracting kinetic sculptures in 1960s Paris."
   },
   {
     "code": "2006.34.210",
