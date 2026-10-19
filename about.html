@@ -5,6 +5,141 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Archival Origin | The Monographic Archive</title>
     <link rel="stylesheet" href="css/style.css">
+    <style>
+        :root {
+            --bg-color: #fcfcfc;
+            --text-color: #1a1a1a;
+            --border-color: #e0e0e0;
+            --accent-color: #555555;
+            --font-stack: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            --font-mono: "Courier New", Courier, monospace;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: var(--font-stack);
+            margin: 0;
+            padding: 40px;
+            line-height: 1.6;
+        }
+
+        header {
+            border-bottom: 2px solid var(--text-color);
+            padding-bottom: 20px;
+            margin-bottom: 40px;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        h1 {
+            font-size: 1.4rem;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            margin: 0;
+        }
+
+        .meta-tag {
+            font-size: 0.85rem;
+            color: var(--accent-color);
+            font-weight: 600;
+        }
+
+        .site-nav {
+            display: flex;
+            gap: 20px;
+            list-style: none;
+            padding: 0;
+            margin: 20px 0 0 0;
+            border-top: 1px solid var(--border-color);
+            padding-top: 12px;
+            flex-wrap: wrap;
+        }
+
+        .site-nav a {
+            text-decoration: none;
+            color: var(--accent-color);
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+        }
+
+        .site-nav a:hover, .site-nav a.active {
+            color: var(--text-color);
+            font-weight: bold;
+            border-bottom: 2px solid var(--text-color);
+            padding-bottom: 2px;
+        }
+
+        .prose-block {
+            max-width: 900px;
+            margin-top: 30px;
+            background-color: #ffffff;
+            border: 1px solid var(--border-color);
+            padding: 32px;
+            box-sizing: border-box;
+        }
+
+        .prose-block h2 {
+            font-size: 1.1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            margin-top: 0;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 10px;
+            color: var(--text-color);
+        }
+
+        .prose-block h2:nth-of-type(n+2) {
+            margin-top: 36px;
+        }
+
+        .prose-block p {
+            font-size: 0.92rem;
+            color: #333;
+            margin-bottom: 18px;
+        }
+
+        .prose-block ul {
+            list-style: none;
+            padding: 0;
+            margin: 16px 0 0 0;
+        }
+
+        .prose-block li {
+            font-size: 0.9rem;
+            padding: 12px 0;
+            border-bottom: 1px dashed var(--border-color);
+            line-height: 1.5;
+            color: #222;
+        }
+
+        .prose-block li:last-child {
+            border-bottom: none;
+        }
+
+        .prose-block strong {
+            color: var(--text-color);
+        }
+
+        footer {
+            margin-top: 60px;
+            border-top: 1px solid var(--border-color);
+            padding-top: 20px;
+            font-size: 0.8rem;
+            color: var(--accent-color);
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+    </style>
 </head>
 <body>
 
