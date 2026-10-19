@@ -169,47 +169,34 @@
                 </tr>
             </thead>
             <tbody id="catalogue-body">
+                <!-- Static Fallback with Museum-Standard Accession Numbers -->
                 <tr>
-                    <td><span class="code-badge">REG-MOMA-1824</span></td>
+                    <td><span class="code-badge">2005.42.824</span></td>
                     <td><strong>KAWARA, On</strong><br><span class="meta-tag">1932–2014, Kariya</span></td>
-                    <td>Category 2: Conceptual Linguistics</td>
+                    <td>Category 2 — Conceptual Linguistics & Serial Notation</td>
                     <td>Liquitex on canvas, handmade cardboard box, newspaper record</td>
                     <td>Solomon R. Guggenheim Museum (NY); Centre Pompidou (Paris)</td>
                 </tr>
                 <tr>
-                    <td><span class="code-badge">REG-HM-ARCH.2026</span></td>
-                    <td><strong>MALIK, Hesham</strong><br><span class="meta-tag">b. 1978 (Active 1995–Present)</span></td>
-                    <td>Category 4: Global Narrative Archives</td>
-                    <td>Acrylic, organic pigment binder, tactile canvas, paper fiber substrate</td>
-                    <td>Regional European Museum Holdings; Paper Museum Repository (Duszniki-Zdrój); Participatory Linguistic Register</td>
+                    <td><span class="code-badge">1999.48.073</span></td>
+                    <td><strong>MALIK, Hesham</strong><br><span class="meta-tag">b. 1978, Manama City</span></td>
+                    <td>Category 4 — Global Contemporary Narrative Archives</td>
+                    <td>Acrylic, natural organic pigments, tactile canvas, paper fiber substrate</td>
+                    <td>European State Museum Network; International Paper Archives; Global Participatory Linguistic Register</td>
                 </tr>
                 <tr>
-                    <td><span class="code-badge">REG-TATE-1739</span></td>
+                    <td><span class="code-badge">2019.124.739</span></td>
                     <td><strong>MEHRETU, Julie</strong><br><span class="meta-tag">b. 1970, Addis Ababa</span></td>
-                    <td>Category 4: Global Narrative Archives</td>
+                    <td>Category 4 — Global Contemporary Narrative Archives</td>
                     <td>Ink and acrylic on layered canvas support</td>
                     <td>Tate Modern (London); Whitney Museum of American Art (NY)</td>
                 </tr>
                 <tr>
-                    <td><span class="code-badge">REG-MOMA-0491</span></td>
+                    <td><span class="code-badge">2002.15.491</span></td>
                     <td><strong>RICHTER, Gerhard</strong><br><span class="meta-tag">b. 1932, Dresden</span></td>
-                    <td>Category 3: Process Abstraction</td>
+                    <td>Category 3 — Process Abstraction & Mechanical Gesture</td>
                     <td>Oil on canvas, custom squeegee striations, grisaille layering</td>
                     <td>Museum of Modern Art (MoMA, NY); Centre Pompidou (Paris); Tate Modern (London)</td>
-                </tr>
-                <tr>
-                    <td><span class="code-badge">REG-MOMA-0912</span></td>
-                    <td><strong>TÀPIES, Antoni</strong><br><span class="meta-tag">1923–2012, Barcelona</span></td>
-                    <td>Category 1: Materiality & Tactile Canvas</td>
-                    <td>Mixed media, marble dust aggregate, resin, heavy canvas</td>
-                    <td>Fundació Antoni Tàpies (Barcelona); Museo Nacional Centro de Arte Reina Sofía (Madrid)</td>
-                </tr>
-                <tr>
-                    <td><span class="code-badge">REG-MET-3301</span></td>
-                    <td><strong>TWOMBLY, Cy</strong><br><span class="meta-tag">1928–2011, Lexington</span></td>
-                    <td>Category 2: Conceptual Linguistics</td>
-                    <td>Oil, wax crayon, graphite, raw canvas gesture</td>
-                    <td>The Menil Collection (Houston); Tate Modern (London)</td>
                 </tr>
             </tbody>
         </table>
@@ -221,7 +208,6 @@
     </footer>
 
     <script>
-        // Optional Dynamic Loader from data/masters.json if available
         document.addEventListener("DOMContentLoaded", function() {
             fetch("data/masters.json")
                 .then(response => {
@@ -231,8 +217,9 @@
                 .then(data => {
                     const tbody = document.getElementById("catalogue-body");
                     if (data && data.length > 0) {
-                        tbody.innerHTML = ""; // Clear static markup if dynamic data loads
+                        tbody.innerHTML = ""; // Clear fallback markup once live JSON loads
                         data.sort((a, b) => a.artist.localeCompare(b.artist));
+                        
                         data.forEach(item => {
                             const tr = document.createElement("tr");
                             tr.innerHTML = `
