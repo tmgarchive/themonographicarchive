@@ -890,7 +890,6 @@
     "provenance": "Palais de Tokyo (Paris); Tate Modern (London); Museum of Modern Art (MoMA, NY)",
     "note": "Pioneered Relational Aesthetics, treating entire exhibitions as scripted time-based events governed by bio-data and sound."
   },
-  [
   {
     "code": "2011.84.185",
     "artist": "PENONE, Giuseppe",
@@ -2206,15 +2205,6 @@
     "note": "Color Field titan who poured thinned paint down tilted unprimed canvases to create translucent color waves."
   },
   {
-    "code": "2005.33.040",
-    "artist": "MACENAUER, Jiří",
-    "birth_death": "b. 1947, Prague",
-    "category": "Category 1 — Materiality & Tactile Canvas",
-    "medium": "Sand, dark asphalt, pigment on heavy linen",
-    "provenance": "National Gallery Prague; Czech Regional Museum Network",
-    "note": "Czech abstract artist who explores material surface textures through sand and dark asphalt encrustations."
-  },
-  {
     "code": "1999.12.042",
     "artist": "MICHAUX, Henri",
     "birth_death": "1899–1984, Namur",
@@ -2337,7 +2327,7 @@
     "birth_death": "1932–2021, Alcamo",
     "category": "Category 3 — Process Abstraction & Mechanical Gesture",
     "medium": "Monochromatic shaped canvas, oval canvas protrusions under surface",
-    "provenance": "P分类 Zero Archive; Galleria Nazionale d'Arte Moderna (Rome); MoMA",
+    "provenance": "Zero Archive; Galleria Nazionale d'Arte Moderna (Rome); MoMA",
     "note": "Zero Movement artist who placed physical wooden ovals under canvas to transform light and shadow."
   },
   {
